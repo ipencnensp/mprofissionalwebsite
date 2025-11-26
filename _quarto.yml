@@ -1,0 +1,87 @@
+project:
+  type: website
+  output-dir: docs
+  render: 
+    - "institucional"
+    - "academico"
+    - "programa"
+    - "empresas"
+    - "index.qmd"
+    - "edital.qmd"
+
+
+website:
+  title: "MPTRCS"
+  navbar:
+    logo: "/images/logo_mp.png" 
+    logo-alt: "Logo do Mestrado Profissional IPEN"
+    left:
+      - text: "Home"
+        href: index.qmd
+      
+      - text: "Institucional"
+        menu:
+          - text: "O IPEN"
+            href: institucional/sobre-ipen.qmd
+          - text: "Estrutura Organizacional"
+            href: institucional/estrutura.qmd
+          - text: "Comissão de Pós-Graduação (CPG)"
+            href: institucional/cpg.qmd
+          - text: "Agenda e Atas da CPG"
+            href: institucional/agendas-cpg.qmd
+
+      - text: "O Programa"
+        menu:
+          - text: "Áreas de Concentração"
+            href: programa/areas.qmd
+          - text: "Corpo Docente"
+            href: programa/docentes/docentes.qmd
+          - text: "Disciplinas Oferecidas"
+            href: programa/disciplinas.qmd
+
+      - text: "Acadêmico"
+        menu:
+          - text: "Calendário 2025/2026"
+            href: academico/calendario.qmd
+          - text: "Secretaria Virtual" # Opcional para formulários
+            href: academico/secretaria.qmd
+
+      - text: "Inovação & Empresas"
+        menu:
+          - text: "Seja um Parceiro"
+            href: empresas/parcerias.qmd
+          - text: "Portfólio de Projetos"
+            href: empresas/portfolio.qmd
+
+    right:
+      - text: "Processo Seletivo"
+        href: edital.qmd
+        icon: file-earmark-text
+
+  page-footer:
+     background: dark
+     center: |
+       <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+         <img src="images/logo-ipen-negat.png" height="50" alt="Logo IPEN">
+         <img src="images/logo-capes.png" height="50" alt="Logo CAPES">
+       </div>
+       <p style="margin-top: 10px;">
+         © 2025 Mestrado Profissional em Tecnologia das Radiações em Ciências da Saúde.<br>
+         Av. Prof. Lineu Prestes, 2242 - Cidade Universitária, São Paulo - SP
+       </p>
+
+format:
+  html:
+    theme:
+      - spacelab
+      - brand
+    css: styles.css
+    toc: true
+
+resources:
+  - "programa/docentes/*/fotos/"
+  - "images/*"
+
+lang: pt-BR
+
+

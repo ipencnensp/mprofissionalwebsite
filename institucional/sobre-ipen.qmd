@@ -1,0 +1,39 @@
+---
+title: "O IPEN"
+subtitle: "Uma referência nacional em Ciência, Tecnologia e Inovação"
+format:
+  html:
+    toc: true
+    toc-depth: 2
+---
+
+::: {.lead}
+O Instituto de Pesquisas Energéticas e Nucleares (IPEN) é um dos principais centros de pesquisa do Brasil, protagonista no desenvolvimento do setor nuclear e na aplicação pacífica das radiações em benefício da sociedade.
+:::
+
+---
+
+## História e Missão
+
+Fundado em **1956**, o IPEN consolidou-se como uma instituição estratégica para o desenvolvimento científico e tecnológico do país. Gerido pela **Comissão Nacional de Energia Nuclear (CNEN)** — autarquia federal vinculada ao Ministério da Ciência, Tecnologia e Inovação (MCTI) — o instituto possui uma trajetória marcada pelo pioneirismo e pela busca da soberania tecnológica.
+
+Sua missão transcende a pesquisa de bancada; o IPEN dedica-se a promover o avanço tecnológico, gerar produtos e serviços de alto valor agregado e formar recursos humanos especializados, atuando como um elo vital entre a ciência fundamental e as demandas da sociedade brasileira.
+
+::: {.callout-note}
+## Localização Estratégica
+Instalado no campus da **Cidade Universitária (USP)**, em São Paulo, o IPEN ocupa uma área de 500.000 m², inserido em um dos ecossistemas de inovação mais vibrantes da América Latina.
+:::
+
+---
+
+## O IPEN e a Saúde: Impacto Real
+
+A atuação do IPEN na área da saúde é, talvez, sua contribuição mais visível e vital para a população brasileira. O instituto é líder nacional na produção e distribuição de **radiofármacos**, insumos essenciais para a Medicina Nuclear.
+
+Graças à infraestrutura do IPEN, que inclui o Reator de Pesquisas IEA-R1 e complexos de cíclotrons, milhões de procedimentos diagnósticos e terapêuticos são realizados anualmente no Brasil.
+
+### Pilares de Atuação em Saúde:
+
+* **Produção de Radioisótopos:** Fornecimento contínuo de insumos para diagnóstico (como o Tecnécio-99m) e terapia (como o Iodo-131 e o Lutécio-177).
+* **P&D de Novos Fármacos:** Pesquisa constante para o desenvolvimento de novas moléculas para o tratamento de câncer e doenças neurológicas.
+* **Esterilização e Biomateriais:** Uso da tecnologia das radiações para esterilização de produtos

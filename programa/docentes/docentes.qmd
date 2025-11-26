@@ -1,0 +1,63 @@
+---
+title: "Docentes do MP"
+page-layout: full
+title-block-banner: true
+listing:
+  - id: coordenacao
+    contents: "coordenacao/*.qmd"
+    fields: [image, title, subtitle]
+    image-height: 250px
+    field-display-names:
+      institute: "Instituição"
+      affiliation: "Instituição"
+    filter-ui: false
+    sort-ui: false
+    type: grid
+  - id: professores
+    contents: "professor/*.qmd"
+    type: grid
+    fields: [title, subtitle]
+    field-display-names:
+      institute: "Instituição"
+      affiliation: "Instituição"
+    filter-ui: false
+    sort-ui: false
+---
+
+
+<!-- dá para customizar a maneira como os itens são listados:
+https://quarto.org/docs/websites/website-listings-custom.html 
+
+e aqui um exemplo do próprio Quarto:
+
+https://github.com/quarto-dev/quarto-web/blob/main/docs/gallery/index.qmd
+https://github.com/quarto-dev/quarto-web/blob/main/docs/gallery/gallery.yml
+https://github.com/quarto-dev/quarto-web/blob/main/docs/gallery/gallery.ejs
+
+Isso cria muitas possibilidades! Agora preciso aprender esse EJS
+-->
+
+
+::: {.content-container}
+::: {.listing-block}
+
+## COORDENAÇÃO
+
+::: {#coordenacao}
+:::
+
+:::
+:::
+
+::: {.content-container}
+::: {.listing-block}
+
+## PROFESSORES
+
+::: {#professores}
+:::
+
+:::
+:::
+
+

@@ -1,0 +1,126 @@
+---
+title: "Parcerias Corporativas"
+subtitle: "Conecte sua empresa à excelência científica do IPEN"
+format:
+  html:
+    toc: true
+    toc-title: "Nesta página"
+---
+
+::: {.column-screen .bg-primary .text-white .py-5 .mb-5}
+::: {.container}
+# Inovação Sob Medida para o Setor de Saúde
+### Transforme desafios operacionais em soluções tecnológicas capacitando seus colaboradores no Mestrado Profissional do IPEN.
+:::
+:::
+
+## Por que ser uma Empresa Parceira?
+
+O mercado de tecnologia das radiações em saúde — seja em diagnóstico, terapia ou indústria — exige atualização constante, rigor regulatório e eficiência operacional. 
+
+O **Mestrado Profissional em Tecnologia das Radiações em Ciências da Saúde** não forma apenas acadêmicos; formamos líderes técnicos capazes de resolver problemas complexos dentro da sua organização.
+
+::: {.grid .text-center .my-5}
+
+::: {.g-col-12 .g-col-md-4}
+### <i class="bi bi-graph-up-arrow text-primary" style="font-size: 3rem;"></i>
+#### Resolução de Problemas Reais
+O tema da dissertação do seu colaborador será um **desafio real da sua empresa**. Nossos docentes orientam o desenvolvimento de uma solução técnica, protocolo ou produto aplicável.
+:::
+
+::: {.g-col-12 .g-col-md-4}
+### <i class="bi bi-people-fill text-primary" style="font-size: 3rem;"></i>
+#### Retenção de Talentos
+Oferecer qualificação de alto nível é uma das formas mais eficazes de reter talentos. Seu profissional evolui sem sair do mercado de trabalho.
+:::
+
+::: {.g-col-12 .g-col-md-4}
+### <i class="bi bi-shield-check text-primary" style="font-size: 3rem;"></i>
+#### Excelência e Compliance
+Garanta que sua equipe domine as normas mais recentes e as tecnologias de ponta, elevando a segurança e a qualidade dos serviços prestados aos pacientes.
+:::
+
+:::
+
+---
+
+## Como funciona a Parceria?
+
+Diferente do mestrado acadêmico tradicional, nosso foco é a **Pesquisa Aplicada**. O modelo de parceria funciona em um ciclo virtuoso:
+
+1.  **Identificação:** Sua empresa identifica um colaborador com potencial e um desafio técnico a ser resolvido (ex: otimização de dose, novos protocolos de imagem, validação de novos equipamentos).
+2.  **Ingresso:** O colaborador participa do processo seletivo do Mestrado Profissional.
+3.  **Desenvolvimento:** Durante o curso, o aluno utiliza a infraestrutura do IPEN e a mentoria de nossos doutores para desenvolver a solução para sua empresa.
+4.  **Entrega:** Ao final, sua empresa recebe o profissional titulado e um "Produto Técnico/Tecnológico" (a dissertação aplicada) pronto para implementação.
+
+::: {.callout-note}
+## Flexibilidade para quem trabalha
+Nossas disciplinas e cronogramas são planejados considerando a realidade de quem está no mercado de trabalho, permitindo conciliar a atividade profissional com a excelência acadêmica.
+:::
+
+---
+
+## Quem pode ser parceiro?
+
+Nosso programa é multidisciplinar e atende a diversos <i>players</i> do ecossistema de saúde:
+
+* **Hospitais e Clínicas:** Departamentos de Radioterapia, Medicina Nuclear e Radiologia.
+* **Indústria de Equipamentos:** Fabricantes e representantes de tecnologias médicas (Aceleradores, PET/CT, Lasers).
+* **Empresas de Dosimetria e Proteção Radiológica:** Desenvolvimento de novas metodologias de medição.
+* **Indústria Farmacêutica:** Setores envolvidos com radiofármacos e logística nuclear.
+
+---
+
+## Portfólio de Impacto
+
+Veja exemplos de como nossos alunos transformaram conhecimento em resultados para suas instituições de origem:
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card .h-100 .border-primary}
+::: {.card-header .bg-primary .text-white}
+Case: Otimização em Radioterapia
+:::
+::: {.card-body}
+**O Desafio:** Tempo excessivo no planejamento de tratamentos complexos em um hospital parceiro.
+<br>
+**A Solução:** Desenvolvimento de um algoritmo de *scripting* para o sistema de planejamento.
+<br>
+**Resultado:** Redução de 40% no tempo de planejamento e maior padronização dos tratamentos.
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card .h-100 .border-success}
+::: {.card-header .bg-success .text-white}
+Case: Produção de Radiofármacos
+:::
+::: {.card-body}
+**O Desafio:** Necessidade de nacionalização de módulos de síntese para um novo radiofármaco.
+<br>
+**A Solução:** Adaptação e validação de células quentes e processos de controle de qualidade.
+<br>
+**Resultado:** Autonomia na produção e redução drástica de custos de importação.
+:::
+:::
+:::
+
+:::
+
+*Nota: Os exemplos acima são ilustrativos do potencial do curso.*
+
+---
+
+## Vamos conversar?
+
+Estamos abertos para dialogar com gestores e RHs de empresas de saúde para apresentar o programa detalhadamente e discutir convênios.
+
+::: {.text-center .my-5}
+<a href="mailto:mptrcs@ipen.br" class="btn btn-primary btn-lg shadow rounded-pill px-5">
+  <i class="bi bi-envelope-at"></i> Agendar Reunião com a Coordenação
+</a>
+<br><br>
+<small class="text-muted">Ou entre em contato pelo telefone: (11) 2810-1570 | 2810-1572</small>
+:::

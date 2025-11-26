@@ -1,0 +1,44 @@
+---
+title: "Áreas de Concentração"
+---
+
+
+::: {.container .my-5 .py-4}
+
+
+::: {.grid .align-items-center .mb-5 .gy-4}
+::: {.g-col-12 .g-col-md-6}
+### Processos de Radiação na Saúde
+
+Foco no aprofundamento dos princípios físicos e biológicos das interações das radiações. Esta área abrange desde o planejamento complexo de radioterapia avançada (IMRT, VMAT, Radiocirurgia) até o uso terapêutico de lasers em reabilitação e procedimentos clínicos, preparando o profissional para otimizar tratamentos com eficácia e segurança.
+:::
+::: {.g-col-12 .g-col-md-6}
+![](/images/ac_proc_rad_saude.png){.rounded .shadow width=100% alt="Ilustração abstrata unindo radioterapia, diagnóstico e lasers."}
+:::
+:::
+
+<hr class="my-5 text-muted opacity-25">
+
+::: {.grid .align-items-center .mb-5 .gy-4}
+::: {.g-col-12 .g-col-md-6 .order-2 .order-md-1}
+![](/images/ac_med_nuc_radfarm.png){.rounded .shadow width=100% alt="Ilustração abstrata de um coração humano, moléculas radioativas e detectores digitais."}
+:::
+::: {.g-col-12 .g-col-md-6 .order-1 .order-md-2}
+### Medicina Nuclear e Radiofarmácia
+
+Esta área dedica-se à cadeia completa dos radiofármacos para diagnóstico (SPECT/PET) e terapia. Os alunos exploram desde a produção de radioisótopos em cíclotrons e geradores, passando pela síntese e controle de qualidade em radiofarmácia, até a aplicação clínica e os aspectos regulatórios da medicina nuclear personalizada.
+:::
+:::
+
+<hr class="my-5 text-muted opacity-25">
+
+::: {.grid .align-items-center .mb-5 .gy-4}
+::: {.g-col-12 .g-col-md-6}
+### Avaliação de Tecnologias em Saúde (ATS)
+
+Em um cenário de rápida inovação, a ATS é crucial para a gestão eficiente. Esta concentração capacita o profissional a analisar sistematicamente as implicações clínicas, econômicas, sociais e éticas da adoção de novas tecnologias radiológicas, fornecendo subsídios baseados em evidências para a tomada de decisão estratégica em saúde.
+:::
+::: {.g-col-12 .g-col-md-6}
+![](/images/ac_ats.png){.rounded .shadow width=100% alt="Infográfico abstrato mostrando conexão entre equipamentos médicos, análise de dados e balança de decisão."}
+:::
+:::

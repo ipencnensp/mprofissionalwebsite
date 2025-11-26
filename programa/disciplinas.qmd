@@ -1,0 +1,29 @@
+---
+title: "Disciplinas"
+---
+
+
+::: {.container .my-5 .py-4}
+
+<h2 class="text-center border-bottom pb-3 mb-5">Áreas de Concentração</h2>
+
+
+MP-01 Fundamentos de Física em Ciências da Saúde.
+
+MP-02 Proteção, Segurança e Logística radiológica
+
+MP-03 Interação das Radiações Ionizantes e Não Ionizantes com Tecidos Biológicos
+
+MP-04 Fundamentos de Radioterapia
+
+MP-05 Dosimetria para Radioterapia
+
+MP-06 Radiofarmácia I – módulo teórico
+
+MP-07 Radiofarmácia II – módulo prático-experimental
+
+MP-08 Avaliação de Tecnologias em Saúde
+
+MP-09 Fundamentos do Processamento de Imagens Médicas
+
+:::
