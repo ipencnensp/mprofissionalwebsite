@@ -34,15 +34,15 @@ Abaixo listamos as disciplinas regulares do programa. Clique no nome da discipli
 **Corpo Docente** 
 
 * [Profa. Dra. Lorena Pozzo](docentes/professor/lorena-pozzo.qmd)
-* [Prof. Dr. Julian Marco Barbosa Shorto](docentes/professor/julian-shorto.qmd)
-* [Profa. Dra. Maria da Penha Albuquerque Potiens](docentes/professor/maria-da-penha-potiens.qmd)
+* [Prof. Dr. Julian Marco Barbosa Shorto](docentes/professor/julian-marco-barbosa-shorto.qmd)
+* [Profa. Dra. Maria da Penha Albuquerque Potiens](docentes/professor/maria-da-penha-albuquerque-potiens.qmd)
 :::
 
 
 ::: {.callout-note collapse="true" appearance="simple" icon="false"}
 ## MP-02: Proteção, segurança e logística radiológica.
 
-**Ementa** O objetivo desta disciplina é oferecer ao aluno conceitos básicos de Radioproteção, documentação e normatização para o transporte de material radioativo e fornecer ao aluno conhecimentos sobre segurança física para o trabalho, armazenamento e transporte de materiais radioativos. Esta disciplina também apresentará a cultura de segurança nuclear. JUSTIFICATIVA: Todos os indivíduos ocupacionalmente expostos aos riscos provenientes das práticas envolvendo as radiações ionizantes, como a produção de radiofármacos e radioisótopos, necessitam de conhecimentos sólidos sobre a Radioproteção e sobre o transporte seguro de materiais radioativos. Uma das formas de minimizar os riscos e maximizar os resultados positivos no uso das radiações ionizantes é a difusão dos conceitos da Cultura de Segurança Nuclear. Esses conceitos envolvem os aspectos de segurança física das instalações e das boas práticas na manipulação e armazenamento desses materiais. O conceito de Logística Radiológica completa o conjunto de conhecimentos técnicos necessários para transporte seguro e eficiente dos materiais radioativos de interesse para a área da Saúde. 
+**Ementa** O objetivo desta disciplina é oferecer ao aluno conceitos básicos de Radioproteção, documentação e normatização para o transporte de material radioativo e fornecer ao aluno conhecimentos sobre segurança física para o trabalho, armazenamento e transporte de materiais radioativos. Esta disciplina também apresentará a cultura de segurança nuclear. *JUSTIFICATIVA*: Todos os indivíduos ocupacionalmente expostos aos riscos provenientes das práticas envolvendo as radiações ionizantes, como a produção de radiofármacos e radioisótopos, necessitam de conhecimentos sólidos sobre a Radioproteção e sobre o transporte seguro de materiais radioativos. Uma das formas de minimizar os riscos e maximizar os resultados positivos no uso das radiações ionizantes é a difusão dos conceitos da Cultura de Segurança Nuclear. Esses conceitos envolvem os aspectos de segurança física das instalações e das boas práticas na manipulação e armazenamento desses materiais. O conceito de Logística Radiológica completa o conjunto de conhecimentos técnicos necessários para transporte seguro e eficiente dos materiais radioativos de interesse para a área da Saúde. 
 
 **Conteúdo Programático**: 
 
@@ -69,3 +69,208 @@ Abaixo listamos as disciplinas regulares do programa. Clique no nome da discipli
 * [Prof. Dr. Carlos Alberto Zeituni](docentes/professor/carlos-alberto-zeituni.qmd)
 * [Prof. Dr. Orlando Rodrigues Junior](docentes/coordenacao/orlando-rodrigues-junior.qmd)
 :::
+
+
+::: {.callout-note collapse="true" appearance="simple" icon="false"}
+## MP-03: Interação das radiações ionizantes e não ionizantes com tecidos biológicos.
+
+**Ementa:** Introduzir as bases físicas e químicas das radiações ionizantes e estudar a interação dessas radiações com o material biológico. Mostrar as aplicações da radiação ionizante, principalmente seus efeitos biológicos. 
+
+**Conteúdo Programático**:
+
+1 - Efeitos moleculares da radiação: Interações das radiações com a matéria. 
+2 - Propriedades das radiações ionizantes. 
+3 - Propriedades das radiações não ionizantes. 
+4 - Propriedades báscias da luz laser de interesse para aplicações. 
+5 - Interações das radiações com a matéria: Unidades, Histórico do dano da radiação. 
+6 - Time Scale. 
+7 - Radiólise da água. 
+8 - Efeitos celulares e tissulares da radiação. 
+9 - Indicadores Biológicos. 
+10 - Dosimetria Biológica (aberrações cromossômicas e micronúcleo). 
+11 - Curva de sobrevida. 
+12 - Carcinogênese. 
+13 - Hormese. 
+14 - Radiomodificadores. 
+15 - Modalidade de Morte. 
+16 - Considerações Gerais. Síndromes da Radiação, Efeitos da Radiação: Pele e Gônadas. 
+17 - Modalidade de Morte: Descrição e análise dos principais acidentes radioativos. 
+18 - Biofotônica. 
+19 - Mecanismo de interação laser-tecido para diagnóstico e terapia. 
+20 - Efeitos: não térmicos, fotoquímicos, térmicos, fotoablativos e fotomecânicos. 
+21 - Dependência temporal e de intensidade nos efeitos biológicos (Lei de Beer). 
+22 - Lasers de baixa intensidade (LILT). 
+23 - Terapia Fotodinâmica de tumores (PDT). 
+24 - Lasers de alta intensidade. 
+
+
+**Professores:**
+
+* [Profa. Dra. Denise Maria Zezell](docentes/coordenacao/denise-maria-zezell.qmd)
+* [Prof. Dr. Patrick Jack Spencer](docentes/professor/patrick-jack-spencer.qmd)
+* [Prof. Dr. Daniel Perez Vieira](docentes/professor/daniel-perez-vieira.qmd)
+
+:::
+
+
+
+
+
+::: {.callout-note collapse="true" appearance="simple" icon="false"}
+## MP-04: Fundamentos de Radioterapia
+
+**Ementa:** Oferece uma introdução abrangente aos princípios e práticas fundamentais da radioterapia. Os alunos aprenderão sobre os aspectos físicos, biológicos e clínicos da radioterapia, bem como as técnicas e tecnologias utilizadas no tratamento do câncer. 
+
+*OBJETIVO DE APRENDIZAGEM* Ao final do curso, os alunos serão capazes de: 1. Compreender os princípios físicos e biológicos da radioterapia 2. Identificar e descrever as principais modalidades de radioterapia 3. Entender o processo de planejamento do tratamento radioterápico 4. Conhecer os equipamentos e tecnologias utilizados em radioterapia 5. Reconhecer os efeitos colaterais da radioterapia e estratégias de manejo 6. Compreender os aspectos de segurança e proteção radiológica em radioterapia 
+
+**Conteúdo Programático** 
+
+1. Introdução à Radioterapia • História da radioterapia • História do IPEN com a braquiterapia • Princípios básicos de radiação ionizante • Papel da radioterapia no tratamento do cancer • O estado atual 
+2. Física da Radioterapia • Dosimetria e unidades de medida • Produção de raios X e feixes de elétrons • Efeitos biológicos da radiação 
+3. Modalidades de Radioterapia • Radioterapia externa (teleterapia) • Braquiterapia • Radiocirurgia e radioterapia estereotáxica • Aquisição de imagens e simulação: PET-CT, MRI, CT • Definição de volumes-alvo e órgãos de risco • Planejamento 
+4. Tecnologias e Equipamentos • Aceleradores lineares • Sistemas de imagem guiada (IGRT) • Radioterapia de intensidade modulada (IMRT) e terapia com arco volumétrico modulado (VMAT) • MRIdian 
+5. Aspectos Clínicos e de Segurança • Efeitos colaterais e manejo • Proteção radiológica em radioterapia • Normas: Anvisa e CNEN • Inteligência Artificial em Sistemas de Planejamento 
+
+**Professores:**
+
+* [Prof. Dr. Carlos Alberto Zeituni](docentes/professor/carlos-alberto-zeituni.qmd)
+* [Profa. Dra. Maria Elisa Chuery Martins Rostelato](docentes/professor/maria-elisa-chuery-martins-rostelato.qmd)
+
+:::
+
+
+
+
+::: {.callout-note collapse="true" appearance="simple" icon="false"}
+## MP-05: Dosimetria para Radioterapia
+
+**Ementa:** O objetivo desta disciplina é oferecer ao aluno conceitos básicos de Dosimetria. Será apresentado os protocolos utilizados em Braquiterapia (TG-43 e TG-186). Neste curso também será apresentado uma introdução a utilização do código Monte Carlo. 
+
+**Conteúdo Programático**:
+
+1) TG 43. 
+2) TG 186. 
+3) TLD. 
+4) Filmes radiográficos. 
+5) Teoria da cavidade. 
+6) Modelagem anatômica para cálculo de dose - phantoms matemáticos e de voxels (Uso de imagens de CT). 
+7) Modelagem de um acelerador linear e fontes de braquiterapia. 
+8) Cálculo de dose pelo Método de Monte Carlo.
+
+
+**Professores:**
+
+* [Prof. Dr. Carlos Alberto Zeituni](docentes/professor/carlos-alberto-zeituni.qmd)
+* [Profa. Dra. Carla Daruich de Souza](docentes/professor/carla-daruich-de-souza.qmd)
+
+:::
+
+
+
+::: {.callout-note collapse="true" appearance="simple" icon="false"}
+## MP-06: Radiofarmácia l - módulo teórico.
+
+**Ementa:** Apresentar conceitos e temas relacionados à Radiofarmácia, contribuindo para capacitação de profissionais para atuação nesta área. 
+
+**Conteúdo Programático:** 
+
+1. Radiofarmácia e radiofármacos – conceitos gerais; 
+2. Aplicação clínica de radiofármacos em Medicina Nuclear; 
+3. Produção de radioisótopos em reator nuclear; 
+4. Produção de radioisótopos em cíclotron; 
+5. Sistemas Geradores de radionuclídeos; 
+6. Controle de qualidade (físico-químico, químico, radioquímico, radionuclídico, microbológico, biológico) de radiofármacos e Validação de método analítico; 
+7. Boas Práticas de Fabricação e Registro de Radiofármacos; 
+8. Radiofarmácia hospitalar; 
+9. Planejamento para desenvolvimento de radiofármacos; 
+10. Métodos de radiomarcação utilizados na produção de radiofármacos (Radiofármacos de tecnécio-99m; radiofármacos de flúor-18; radiofármacos de galio-68; radiofármacos de iodo-123/iodo131; radiofármacos aplicados em terapia).
+
+
+**Professores:**
+
+* [Profa. Dra. Elaine Bortoleti de Araújo](docentes/professor/elaine-bortoleti-de-araujo.qmd)
+* [Profa. Dra. Margareth Mie Nakamura Matsuda](docentes/professor/margareth-mie-nakamura-matsuda.qmd)
+
+:::
+
+
+
+::: {.callout-note collapse="true" appearance="simple" icon="false"}
+## MP-07: Radiofarmácia ll - módulo prático-experimental
+
+**Ementa:** Explorar práticas relacionadas à produção de radionuclídeos em cíclotron, marcação de moléculas com elementos radioativos, controle de qualidade de radiofármacos e experimentação para investigação ? estudos pré-clínicos com radiofármacos. As atividades relacionadas à produção de radionuclídeos, produção e controle de qualidade de radiofármacos, bem como as técnicas empregadas em procedimentos investigativos, como os utilizados no desenvolvimento de novos radiofármacos, apresentam especificidade, complexidade e aspectos de segurança que justificam a realização de treinamento prático, em ambiente apropriado para manipulação de fontes radioativas abertas, e sob a supervisão de profissionais capacitados. 
+
+**Conteúdo Programático:** 
+
+1. Eluição de geradores e controle de qualidade dos eluídos; 
+2. Marcação de moléculas com tecnécio-99m e controle de qualidade; 
+3. Produção de flúor-18 em cíclotron; 
+4. Marcação de moléculas com flúor-18 em módulo automatizado; 
+5. Controle de qualidade de moléculas marcadas com flúor-18; 
+6. Marcação de moléculas com galio-68 e controle de qualidade; 
+7. Marcação experimental com flúor-18; 
+8. Estudos pré-clínicos com radiofármacos. 
+
+
+**Professores:**
+
+* [Profa. Dra. Margareth Mie Nakamura Matsuda](docentes/professor/margareth-mie-nakamura-matsuda.qmd)
+* [Profa. Dra. Elaine Bortoleti de Araújo](docentes/professor/elaine-bortoleti-de-araujo.qmd)
+* Prof. Dr. Luís Alberto Pereira Dias
+
+:::
+
+
+::: {.callout-note collapse="true" appearance="simple" icon="false"}
+## MP-08: Avaliação de Tecnologias em Saúde
+
+**Ementa:** A análise baseada em evidências é fundamental à tomada de decisão em saúde, levando em consideração aspectos como eficácia, acurácia, efetividade e segurança da tecnologia, além da avaliação econômica comparativa dos benefícios e dos custos em relação às tecnologias já existentes. Esta disciplina pretende introduzir conceitos metodológicos para a avaliação de tecnologias em saúde: desenho de estudos de investigação em saúde, métodos de pesquisa epidemiológica, avaliações econômicas e elaboração de projetos científicos.
+
+**Conteúdo Programático:**
+
+1. Estudos em saúde 
+2. Aspectos Éticos 
+3. Métodos Epidemiológicos 
+4. Perguntas de Pesquisa (PICOT) 
+5. Estudos Qualitativos 
+6. Ensaios Quantitativos (Controlados Randomizados, não Randomizados, Descritivos) 
+7. Estudos com Métodos Mistos 
+8. Revisão Sistemática e Metanálise
+9. Equipamentos médico-assistenciais 
+10. Parecer Técnico Científico 
+11. Análise econômica. 
+
+**Professores:** 
+
+* [Profa. Dra. Lorena Pozzo](docentes/professor/lorena-pozzo.qmd)
+* [Profa. Dra. Martha Simões Ribeiro](docentes/professor/martha-simoes-ribeiro.qmd)
+* [Profa. Dra. Maria Elisa Chuery Martins Rostelato](docentes/professor/maria-elisa-chuery-martins-rostelato.qmd)
+
+:::
+
+
+::: {.callout-note collapse="true" appearance="simple" icon="false"}
+## MP-09: Fundamentos do Processamento de Imagens Médicas
+
+**Ementa:** O curso é uma introdução ao processamento de imagens médicas. Os objetivos são: oferecer aos alunos uma visão generalista dos processos de formação da imagem nos diversos sistemas e equipamentos de diagnóstico e tratamento utilizados na área da Saúde e os conceitos fundamentais sobre o pós-processamento das imagens, como os principais algoritmos funcionam e quais as situações onde podem ser aplicados. 
+
+**Conteúdo Programático:**
+
+1. Princípios Físicos dos diversos sistemas de geração de imagens (raios-X, CT, PET e PET-CT, MRI, OCT e ultrassom) e evolução histórica das tecnologias; 
+2. Introdução às Radiações Eletromagnéticas e aos processos de interação da radiação com a matéria; 
+3. Padrões de armazenamento e recuperação de imagens médicas: Sistema PACS, ACR-NEMA e os padrões DICOM.; 
+4. Fundamentos da imagem digital: conceito de imagem; noções sobre a formação das imagens; 
+5. Imagens digitais: formatos e características; aspectos da aquisição da imagem: relação sinal/ruído, normalização, calibração e contraste; métodos de interpolação linear e espacial;
+6. Aspectos conceituais do pós-processamento matemático de imagens: morfologia matemática, filtragem, segmentação: detecção de bordas e contornos; conceito de ROI; Aulas práticas sobre a utilização de plataformas Open source para o pós-processamento de imagens médicas; 
+7. Visão geral sobre a reconstrução de imagens 2D e 3D; métodos analíticos(FBP); métodos iterativos(ART) e métodos estocásticos; 
+8. Tópicos especiais sobre o processamento de imagens médicas: MRI aplicada na Dosimetria Química para Radioterapia - raios-X; 
+9. Utilização da técnica de OCT nos diagnósticos de doenças oftalmológicas.
+
+**Professores:**
+
+
+* [Prof. Dr. Mário Olímpio de Menezes](docentes/professor/mario-olimpio-de-menezes.qmd)
+* [Profa. Dra. Lorena Pozzo](docentes/professor/lorena-pozzo.qmd)
+
+:::
+
