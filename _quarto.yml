@@ -13,6 +13,7 @@ project:
 website:
   title: "MPTRCS"
   favicon: images/favicon.png
+  google-analytics: "G-3790LE2466"
   announcement: 
     icon: info-circle
     dismissable: true
