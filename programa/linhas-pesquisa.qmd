@@ -1,0 +1,108 @@
+---
+title: "Linhas de Pesquisa"
+subtitle: "Eixos temáticos que orientam a produção científica e tecnológica do programa"
+format:
+  html:
+    toc: false
+---
+
+O Mestrado Profissional está estruturado em torno de linhas de pesquisa que refletem as demandas atuais do setor de saúde e a expertise tecnológica do IPEN. Os projetos de dissertação devem, obrigatoriamente, estar inseridos em uma destas linhas.
+
+::: {.grid .my-4}
+
+<!-- LINHA 1 -->
+::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
+::: {.card .h-100 .shadow-sm .border-light}
+::: {.card-body}
+#### <i class="bi bi-radioactive text-primary"></i> Radioterapia
+Foca no desenvolvimento e aprimoramento de técnicas de tratamento oncológico. Abrange desde o planejamento computadorizado avançado (IMRT, VMAT, Radiocirurgia) até o controle de qualidade de aceleradores lineares e segurança do paciente.
+:::
+:::
+:::
+
+<!-- LINHA 2 -->
+::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
+::: {.card .h-100 .shadow-sm .border-light}
+::: {.card-body}
+#### <i class="bi bi-capsule text-primary"></i> Medicina Nuclear (Radiofármacos)
+Dedicada à cadeia de produção e aplicação clínica. Envolve a síntese de novos radiotraçadores, controle de qualidade físico-químico e biológico, e desenvolvimento de protocolos para diagnósticos SPECT/PET e terapias com radioisótopos.
+:::
+:::
+:::
+
+<!-- LINHA 3 -->
+::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
+::: {.card .h-100 .shadow-sm .border-light}
+::: {.card-body}
+#### <i class="bi bi-clipboard-data text-primary"></i> Avaliação de Tecnologias em Saúde (ATS)
+Analisa sistematicamente as tecnologias radiológicas. Investiga custos, efetividade, impactos organizacionais e éticos da incorporação de novos equipamentos e procedimentos no sistema de saúde (SUS e Suplementar).
+:::
+:::
+:::
+
+<!-- LINHA 4 -->
+::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
+::: {.card .h-100 .shadow-sm .border-light}
+::: {.card-body}
+#### <i class="bi bi-rulers text-primary"></i> Metrologia e Dosimetria em Processos de Radiação
+Fundamenta a precisão das medidas de radiação. Desenvolve metodologias para calibração de detectores, dosimetria clínica em feixes de radiação e garantia da rastreabilidade metrológica em ambientes hospitalares.
+:::
+:::
+:::
+
+<!-- LINHA 5 -->
+::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
+::: {.card .h-100 .shadow-sm .border-light}
+::: {.card-body}
+#### <i class="bi bi-activity text-primary"></i> Metrologia e Dosimetria em Medicina Nuclear
+Específica para fontes não seladas. Aborda a quantificação de atividade em calibradores de dose e a dosimetria interna personalizada para pacientes submetidos a terapias com radionuclídeos.
+:::
+:::
+:::
+
+<!-- LINHA 6 -->
+::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
+::: {.card .h-100 .shadow-sm .border-light}
+::: {.card-body}
+#### <i class="bi bi-lightbulb text-primary"></i> Biofotônica: Diagnóstico e Terapia
+Explora a interação da luz com tecidos biológicos. Investiga o uso de Lasers e LEDs em processos de reabilitação, descontaminação (Terapia Fotodinâmica - PDT) e diagnósticos ópticos não invasivos.
+:::
+:::
+:::
+
+<!-- LINHA 7 -->
+::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
+::: {.card .h-100 .shadow-sm .border-light}
+::: {.card-body}
+#### <i class="bi bi-box-seam text-primary"></i> Biomateriais e Nanotecnologia
+Desenvolve novos materiais para saúde. Inclui síntese de nanopartículas para *drug delivery*, suportes para engenharia de tecidos e uso da radiação para esterilização ou modificação de propriedades de biomateriais.
+:::
+:::
+:::
+
+<!-- LINHA 8 -->
+::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
+::: {.card .h-100 .shadow-sm .border-light}
+::: {.card-body}
+#### <i class="bi bi-recycle text-primary"></i> Aplicações Nucleares: Saúde e Ambiente
+Investiga a interface entre o uso de radiação e o meio ambiente. Trata da gestão de rejeitos radioativos hospitalares, proteção ambiental e estudos epidemiológicos relacionados à exposição à radiação.
+:::
+:::
+:::
+
+<!-- LINHA 9 -->
+::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
+::: {.card .h-100 .shadow-sm .border-light}
+::: {.card-body}
+#### <i class="bi bi-search text-primary"></i> ATS em Radiofármacos
+Um recorte específico da Avaliação de Tecnologias, focado na farmacoeconomia e nos impactos regulatórios da introdução de novas moléculas radioativas no mercado brasileiro.
+:::
+:::
+:::
+
+:::
+
+::: {.callout-note}
+## Orientação
+Interessado em desenvolver projeto em uma destas linhas? Consulte a página do [Corpo Docente](docentes/docentes.qmd) para identificar professores que atuam na sua área de interesse.
+:::

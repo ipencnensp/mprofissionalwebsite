@@ -40,6 +40,8 @@ website:
         menu:
           - text: "Áreas de Concentração"
             href: programa/areas.qmd
+          - text: "Linhas de Pesquisa"
+            href: programa/linhas-pesquisa.qmd
           - text: "Corpo Docente"
             href: programa/docentes/docentes.qmd
           - text: "Disciplinas Oferecidas"
