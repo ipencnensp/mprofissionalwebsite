@@ -15,7 +15,7 @@ website:
   announcement: 
     icon: info-circle
     dismissable: true
-    content: "**Processo Seletivo Aberto** - <a href='edital.html'> Visite a Página </a>"
+    content: "**Processo Seletivo Aberto** - <a href='/edital.qmd'> Visite a Página </a>"
     type: primary
     position: below-navbar
   navbar:
