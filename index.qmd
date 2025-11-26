@@ -76,9 +76,3 @@ Em um cenário de rápida inovação, a ATS é crucial para a gestão eficiente.
 
 
 
-::: {.container-fluid .bg-dark .text-light .py-4 .mt-5 .text-center}
-<p class="mb-0">© 2025 Mestrado Profissional em Tecnologia das Radiações em Ciências da Saúde.</p>
-<small>Instituto de Pesquisas Energéticas e Nucleares -- IPEN - Contato: ptrcs.ipen@gmail.com</small></br>
-<small>Telefones: +55 11 2810 1572</small>
-:::
-
