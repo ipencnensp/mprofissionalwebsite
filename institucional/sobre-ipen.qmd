@@ -7,6 +7,10 @@ format:
     toc-depth: 2
 ---
 
+::: {.text-center .mb-4}
+![](../images/logo-ipen.png){width=200px}
+:::
+
 ::: {.lead}
 O Instituto de Pesquisas Energéticas e Nucleares (IPEN) é um dos principais centros de pesquisa do Brasil, protagonista no desenvolvimento do setor nuclear e na aplicação pacífica das radiações em benefício da sociedade.
 :::
@@ -36,4 +40,59 @@ Graças à infraestrutura do IPEN, que inclui o Reator de Pesquisas IEA-R1 e com
 
 * **Produção de Radioisótopos:** Fornecimento contínuo de insumos para diagnóstico (como o Tecnécio-99m) e terapia (como o Iodo-131 e o Lutécio-177).
 * **P&D de Novos Fármacos:** Pesquisa constante para o desenvolvimento de novas moléculas para o tratamento de câncer e doenças neurológicas.
-* **Esterilização e Biomateriais:** Uso da tecnologia das radiações para esterilização de produtos
+* **Esterilização e Biomateriais:** Uso da tecnologia das radiações para esterilização de produtos médicos e desenvolvimento de biomateriais para enxertos e curativos avançados (pele irradiada).
+
+
+---
+
+## Excelência no Ensino e Formação
+
+O IPEN tem atualmente dois programas de pós-graduação; o programa de "Tecnologia Nuclear", associado à **Universidade de São Paulo (USP)**, uma parceria histórica que garante a excelência acadêmica.
+
+Historicamente focado na formação de pesquisadores (Mestrado Acadêmico e Doutorado), o IPEN expandiu sua atuação para o **Ensino Profissional**, reconhecendo a necessidade de transferir conhecimento diretamente para o setor produtivo e de serviços. Esse segundo programa que abria o **Mestrado Profissional em Tecnologia das Radiações em Ciências da Saúde** é um programa de pós-graduação cuja *IES* é o próprio IPEN. 
+
+> "Formamos não apenas cientistas, mas profissionais capazes de liderar a implementação de tecnologias complexas em hospitais, indústrias e centros de pesquisa."
+
+### O Mestrado Profissional
+Neste contexto, o *Mestrado Profissional em Tecnologia das Radiações em Ciências da Saúde* surge como um vetor de qualificação para o mercado, aproveitando a *expertise* acumulada de décadas em:
+
+1.  Física Médica e Dosimetria.
+2.  Proteção Radiológica.
+3.  Engenharia Nuclear aplicada à Saúde.
+
+---
+
+## Infraestrutura Singular
+
+O aluno do IPEN tem acesso a um parque tecnológico sem paralelo no país, o que permite uma formação prática e contato com equipamentos de "Big Science":
+
+::: {.grid .text-center}
+
+::: {.g-col-12 .g-col-md-4}
+<div class="p-3 border rounded shadow-sm h-100">
+<h4 class="text-primary">Reator IEA-R1</h4>
+O primeiro reator de pesquisas do hemisfério sul, fundamental para a pesquisa em física nuclear e produção de isótopos.
+</div>
+:::
+
+::: {.g-col-12 .g-col-md-4}
+<div class="p-3 border rounded shadow-sm h-100">
+<h4 class="text-primary">Aceleradores de Partículas</h4>
+Cíclotrons e aceleradores de elétrons industriais utilizados para produção de radiofármacos e tratamento de materiais.
+</div>
+:::
+
+::: {.g-col-12 .g-col-md-4}
+<div class="p-3 border rounded shadow-sm h-100">
+<h4 class="text-primary">Laboratórios de Ponta</h4>
+Centros de metrologia das radiações, laboratórios de caracterização de materiais e instalações de biologia molecular.
+</div>
+:::
+
+:::
+
+---
+
+::: {.text-center .mt-5}
+[Visite o site oficial do IPEN para mais informações institucionais](https://www.ipen.br){.btn .btn-outline-secondary role="button" target="_blank"}
+:::

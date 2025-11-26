@@ -62,6 +62,10 @@ website:
             href: empresas/portfolio.qmd
 
     right:
+    # Ícones das Redes Sociais
+      - icon: instagram
+        href: https://instagram.com/mptrcs.ipen/
+        aria-label: Instagram
       - text: "Processo Seletivo"
         href: edital.qmd
         icon: file-earmark-text
@@ -88,6 +92,7 @@ format:
       - brand
     css: styles.css
     toc: true
+    link-external-newwindow: true
 
 resources:
   - "programa/docentes/*/fotos/"
