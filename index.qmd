@@ -29,7 +29,7 @@ Voltado para graduados em Medicina, Farmácia, Biomedicina, Odontologia, Física
 <h2 class="display-5 fw-bold text-primary mb-3">Inscrições Abertas para Turma 2026</h2>
 <h3 class="display-6 fw-bold text-primary mb-4">Curso Presencial</h3>
 <p class="lead mb-4">Não perca a oportunidade de se especializar com excelência. Consulte as regras e prazos no edital.</p>
-<a href="edital.qmd" target="_blank" class="btn btn-primary btn-lg px-5 fw-bold shadow-sm" role="button">Acessar Edital e Inscrições</a>
+<a href="edital.qmd" class="btn btn-primary btn-lg px-5 fw-bold shadow-sm" role="button">Acessar Edital e Inscrições</a>
 :::
 :::
 

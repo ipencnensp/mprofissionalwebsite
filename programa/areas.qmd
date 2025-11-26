@@ -44,3 +44,4 @@ Em um cenário de rápida inovação, a ATS é crucial para a gestão eficiente.
 ![](/images/ac_ats.png){.rounded .shadow width=100% alt="Infográfico abstrato mostrando conexão entre equipamentos médicos, análise de dados e balança de decisão."}
 :::
 :::
+
