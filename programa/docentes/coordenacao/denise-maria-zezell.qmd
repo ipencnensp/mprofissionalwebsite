@@ -25,8 +25,8 @@ about:
 ```{=html}
 <nav aria-label="breadcrumb">
   <ol class="breadcrumb">
-    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
-    <li class="breadcrumb-item"><a href="../docentes.html">Docentes do MPTRCS</a></li>
+    <li class="breadcrumb-item"><a href="/index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="/programa/docentes/docentes.html">Docentes do MPTRCS</a></li>
     <li class="breadcrumb-item active">Coordenadora</li>
     <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
   </ol>
@@ -41,8 +41,12 @@ about:
 
 ### Áreas de Atuação
 
-Prop. Óticas e Espectrosc. da Mat. Condens; Outras Inter. da Mat. com Rad. e Part.
+Aplicações de Técnicas Nucleares nas Áreas de Saúde e de Ambiente / Biofotônica: diagnóstico e terapia/ Radioterapia / Avaliações de Tecnologias em Saúde
 
-### Linhas de Pesquisa
+### Área(s) de Concentração
+
+Processos de Radiação na Saúde
+
+
 
 

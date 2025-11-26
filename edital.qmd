@@ -1,4 +1,47 @@
 ---
-title: "Processo Seletivo"
+title: "Processo Seletivo 2026"
+subtitle: "Ingresso na Turma 08 - Março/2026"
+format:
+  html:
+    toc: true
+    toc-depth: 2
 ---
 
+::: {.callout-important icon="true"}
+## Inscrições Abertas
+O período de inscrições vai de **26/11/2025 a 23/01/2026**.
+:::
+
+## Visão Geral
+
+O **Instituto de Pesquisas Energéticas e Nucleares (IPEN-CNEN)** torna público o Edital Nº 07/2025 para seleção de candidatos ao curso de Mestrado Profissional em Tecnologia das Radiações em Ciências da Saúde.
+
+* **Público-Alvo:** Graduados em Medicina, Farmácia, Biomedicina, Odontologia, Radiologia, Física Médica, Engenharias e áreas afins.
+* **Vagas:** 25 vagas (sendo 20% reservadas para ações afirmativas).
+* **Duração:** Até 24 meses.
+* **Aulas:** Quartas e quintas (14h-19h30) e sextas (14h-16h30).
+
+::: {.grid .my-4}
+::: {.g-col-12 .g-col-md-6 .text-center}
+<a href="https://drive.google.com/file/d/10D_3aaCG6gk4lbteNCVumZh8wf3ntcgb/view?usp=drive_link" class="btn btn-outline-primary btn-lg w-100" target="_blank">
+  <i class="bi bi-file-earmark-pdf"></i> Baixar Edital Completo
+</a>
+:::
+::: {.g-col-12 .g-col-md-6 .text-center}
+<a href="https://w1.solucaoatrio.net.br/ipen-ptrcs/ApplicationNew.do?cycleId=22" class="btn btn-primary btn-lg w-100" target="_blank">
+  <i class="bi bi-pencil-square"></i> Inscreva-se no ATRIO+
+</a>
+:::
+:::
+
+---
+
+## Cronograma do Processo Seletivo
+
+Fique atento às datas principais descritas no edital:
+
+| Data | Etapa |
+| :--- | :--- |
+| **26/11/25 a 23/01/26** | **Período de Inscrições (via Sistema ATRIO+)** |
+| 26/01/2026 | Divulgação das inscrições deferidas |
+| **29/01/2026** | **Etapa 1:** Prova Objetiva e Proficiência (Presencial)

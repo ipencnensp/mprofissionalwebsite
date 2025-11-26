@@ -12,6 +12,12 @@ project:
 
 website:
   title: "MPTRCS"
+  announcement: 
+    icon: info-circle
+    dismissable: true
+    content: "**Processo Seletivo Aberto** - <a href='edital.html'> Visite a Página </a>"
+    type: primary
+    position: below-navbar
   navbar:
     logo: "/images/logo_mp.png" 
     logo-alt: "Logo do Mestrado Profissional IPEN"

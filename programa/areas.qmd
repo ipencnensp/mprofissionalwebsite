@@ -1,5 +1,7 @@
 ---
 title: "Áreas de Concentração"
+page-layout: full
+title-block-banner: true
 ---
 
 

@@ -25,8 +25,8 @@ about:
 ```{=html}
 <nav aria-label="breadcrumb">
   <ol class="breadcrumb">
-    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
-    <li class="breadcrumb-item"><a href="../docentes.html">Docentes do MPTRCS</a></li>
+    <li class="breadcrumb-item"><a href="/index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="/programa/docentes/docentes.html">Docentes do MPTRCS</a></li>
     <li class="breadcrumb-item active">Vice-Coordenador</li>
     <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
   </ol>
@@ -41,8 +41,12 @@ about:
 
 ### Áreas de Atuação
 
-Instrumentação para Medida e Controle de Radiação, Proteção Radiológica, Métodos Matemáticos da Física, Modelos Analíticos e de Simulação, Sistemas de Informação
+Dosimetria para Radioterapia: experimental e simulações
 
-### Linhas de Pesquisa
+### Área(s) de Concentração
+
+Processos de Radiação na Saúde
+
+
 
 

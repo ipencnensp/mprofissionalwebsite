@@ -25,8 +25,8 @@ about:
 ```{=html}
 <nav aria-label="breadcrumb">
   <ol class="breadcrumb">
-    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
-    <li class="breadcrumb-item"><a href="../docentes.html">Docentes do MPTRCS</a></li>
+    <li class="breadcrumb-item"><a href="/index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="/programa/docentes/docentes.html">Docentes do MPTRCS</a></li>
     <li class="breadcrumb-item active">Professor</li>
     <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
   </ol>
@@ -41,8 +41,12 @@ about:
 
 ### Áreas de Atuação
 
-Avaliação de Tecnologias em Saúde, FÍSICA MÉDICA, DIAGNOSTICO POR IMAGEM, Medicina Nuclear, Dosimetria em Medicina Nuclear, Radiologia Médica
+Aplicações de Técnicas Nucleares nas Áreas de Saúde e de Ambiente /Avaliações de Tecnologias em Saúde / Radiofármacos para aplicação em diagnóstico e terapia em Medicina Nuclear
 
-### Linhas de Pesquisa
+### Área(s) de Concentração
+
+Medicina Nuclear e Radiofarmácia
+
+Avaliação de Tecnologias em Saúde
 
 

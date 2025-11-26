@@ -1,29 +1,71 @@
 ---
-title: "Disciplinas"
+title: "Disciplinas Oferecidas"
+page-layout: full
+title-block-banner: true
+format:
+  html:
+    toc: true
 ---
 
+Abaixo listamos as disciplinas regulares do programa. Clique no nome da disciplina para visualizar a ementa e o corpo docente.
 
-::: {.container .my-5 .py-4}
+::: {.callout-note collapse="true" appearance="simple" icon="false"}
+## MP-01: Fundamentos de Física em Ciências da Saúde
 
-<h2 class="text-center border-bottom pb-3 mb-5">Áreas de Concentração</h2>
+**Ementa** Oferecer ao aluno fundamentos básicos de física nuclear e uma visão geral das aplicações de técnicas nucleares na área da saúde e em diversas áreas do conhecimento. Introduzir as bases físicas e químicas das radiações ionizantes e estudar as principais técnicas hospitalares possibilitando um nivelamento entre os alunos. O conhecimento das técnicas no hospital constitui a base principal para quem trabalha e manipula materiais com pacientes. Por meio de disciplinas como esta é possível transmitir aos alunos os riscos e benefícios do uso pacífico da energia nuclear.
+
+**Conteúdo Programático** 
+
+1. O núcleo.  
+2. Massa atômica e massa nuclear, diferença de massa, energia de ligação.  
+3. Decaimento radioativo, radioatividade natural, equilíbrio radioativo.  
+4. Tipos de decaimento.  
+5. Reações nucleares, radioatividade artificial e atividade induzida.  
+6. Interação da radiação com a matéria.  
+7. Aplicações de radioisótopos na área da saúde, na engenharia e na indústria.  
+8. Aplicações da radiação em Saúde.  
+9. Medicina Nuclear.  
+10. Radioterapia.  
+11. Radiologia.  
+12. RMI.  
+13. Biofotônica.  
+14. Avaliação de Tecnologias em Saúde.
+
+**Corpo Docente** 
+
+* [Profa. Dra. Lorena Pozzo](docentes/professor/lorena-pozzo.qmd)
+* [Prof. Dr. Julian Marco Barbosa Shorto](docentes/professor/julian-shorto.qmd)
+* [Profa. Dra. Maria da Penha Albuquerque Potiens](docentes/professor/maria-da-penha-potiens.qmd)
+:::
 
 
-MP-01 Fundamentos de Física em Ciências da Saúde.
+::: {.callout-note collapse="true" appearance="simple" icon="false"}
+## MP-02: Proteção, segurança e logística radiológica.
 
-MP-02 Proteção, Segurança e Logística radiológica
+**Ementa** O objetivo desta disciplina é oferecer ao aluno conceitos básicos de Radioproteção, documentação e normatização para o transporte de material radioativo e fornecer ao aluno conhecimentos sobre segurança física para o trabalho, armazenamento e transporte de materiais radioativos. Esta disciplina também apresentará a cultura de segurança nuclear. JUSTIFICATIVA: Todos os indivíduos ocupacionalmente expostos aos riscos provenientes das práticas envolvendo as radiações ionizantes, como a produção de radiofármacos e radioisótopos, necessitam de conhecimentos sólidos sobre a Radioproteção e sobre o transporte seguro de materiais radioativos. Uma das formas de minimizar os riscos e maximizar os resultados positivos no uso das radiações ionizantes é a difusão dos conceitos da Cultura de Segurança Nuclear. Esses conceitos envolvem os aspectos de segurança física das instalações e das boas práticas na manipulação e armazenamento desses materiais. O conceito de Logística Radiológica completa o conjunto de conhecimentos técnicos necessários para transporte seguro e eficiente dos materiais radioativos de interesse para a área da Saúde. 
 
-MP-03 Interação das Radiações Ionizantes e Não Ionizantes com Tecidos Biológicos
+**Conteúdo Programático**: 
 
-MP-04 Fundamentos de Radioterapia
+1) Radioproteção: finalidade, campo de atuação e atividades desempenhadas. 
+2) Principais grandezas físicas e unidades usadas em radioproteção. 
+3) Efeitos biológicos das radiações sob o ponto de vista da Proteção Radiológica: órgãos e tecidos de risco, fatores de probabilidade de risco, noção de detrimento, dose comprometida, compromisso de dose e dose equivalente coletiva. 
+4) Princípios básicos do sistema de limitação de doses: justificação, otimização, limites anuais e derivados para trabalhadores e indivíduos do público. 
+5) Sistemas Dosimétricos e modelos para o cálculo de doses. 
+6) Princípios gerais de proteção radiológica operacional e gestão de rejeitos radioativos. 
+7) Princípios de monitoração do trabalhador e do público. 
+8) Transporte Radiativo. 
+9) Normas IATA. 
+10) Normas ONU – Ficha de Informação e Segurança para produtos Perigosos. 
+11) Documentação de Transporte. 
+12) A cultura de Segurança Nuclear. 
+13) Planejamento da Segurança adequada a cada tipo de instalação. 
+14) Manipulação e uso de materiais radioativos. 
+15) Procedimentos básicos de resposta ante um acidente. 
+16) Transporte de material radioativo. 
+17) Riscos e Ameaças. 
 
-MP-05 Dosimetria para Radioterapia
+**Corpo Docente**: 
 
-MP-06 Radiofarmácia I – módulo teórico
-
-MP-07 Radiofarmácia II – módulo prático-experimental
-
-MP-08 Avaliação de Tecnologias em Saúde
-
-MP-09 Fundamentos do Processamento de Imagens Médicas
-
+* [Prof. Dr. Carlos Alberto Zeituni](docentes/professor/carlos-alberto-zeituni.qmd)
+* [Prof. Dr. Orlando Rodrigues Junior](docentes/coordenacao/orlando-rodrigues-junior.qmd)
 :::
