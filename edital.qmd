@@ -45,3 +45,13 @@ Fique atento às datas principais descritas no edital:
 | **26/11/25 a 23/01/26** | **Período de Inscrições (via Sistema ATRIO+)** |
 | 26/01/2026 | Divulgação das inscrições deferidas |
 | **29/01/2026** | **Etapa 1:** Prova Objetiva e Proficiência (Presencial)
+
+
+## Formulários do Edital
+
+Acesse abaixo os formulários (**Anexos**) do Edital. Certifique-se de estar logado em sua conta Google/USP para ter acesso às pastas do Drive.
+
+| Documento | Descrição | Acesso |
+| :--- | :--- | :---: |
+| **Anexos** | Anexos do Edital do Processo Seletivo Edital Nº 07/2025 *(ingresso em março de 2026)*. | [<i class="bi bi-folder-symlink"></i> Acessar](https://drive.google.com/drive/folders/1baMzT4xYHHmzXDVsMxucqseUKf3BnMKj){.btn .btn-sm .btn-outline-primary target="_blank"} |
+
