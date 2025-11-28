@@ -6,103 +6,120 @@ format:
     toc: false
 ---
 
-O Mestrado Profissional está estruturado em torno de linhas de pesquisa que refletem as demandas atuais do setor de saúde e a expertise tecnológica do IPEN. Os projetos de dissertação devem, obrigatoriamente, estar inseridos em uma destas linhas.
+O Mestrado Profissional está estruturado em torno de linhas de pesquisa que refletem as demandas atuais do setor de saúde. Os projetos de dissertação devem, obrigatoriamente, estar inseridos em uma destas linhas.
 
 ::: {.grid .my-4}
 
-<!-- LINHA 1 -->
 ::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
 ::: {.card .h-100 .shadow-sm .border-light}
 ::: {.card-body}
 #### <i class="bi bi-radioactive text-primary"></i> Radioterapia
-Foca no desenvolvimento e aprimoramento de técnicas de tratamento oncológico. Abrange desde o planejamento computadorizado avançado (IMRT, VMAT, Radiocirurgia) até o controle de qualidade de aceleradores lineares e segurança do paciente.
+Foca no desenvolvimento e aprimoramento de técnicas de tratamento oncológico. Abrange desde o planejamento computadorizado avançado (IMRT, VMAT) até o controle de qualidade e segurança do paciente.
 :::
 :::
 :::
 
-<!-- LINHA 2 -->
 ::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
 ::: {.card .h-100 .shadow-sm .border-light}
 ::: {.card-body}
 #### <i class="bi bi-capsule text-primary"></i> Medicina Nuclear (Radiofármacos)
-Dedicada à cadeia de produção e aplicação clínica. Envolve a síntese de novos radiotraçadores, controle de qualidade físico-químico e biológico, e desenvolvimento de protocolos para diagnósticos SPECT/PET e terapias com radioisótopos.
+Dedicada à cadeia de produção e aplicação clínica. Envolve a síntese de novos radiotraçadores, controle de qualidade e desenvolvimento de protocolos para diagnósticos SPECT/PET.
 :::
 :::
 :::
 
-<!-- LINHA 3 -->
 ::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
 ::: {.card .h-100 .shadow-sm .border-light}
 ::: {.card-body}
 #### <i class="bi bi-clipboard-data text-primary"></i> Avaliação de Tecnologias em Saúde (ATS)
-Analisa sistematicamente as tecnologias radiológicas. Investiga custos, efetividade, impactos organizacionais e éticos da incorporação de novos equipamentos e procedimentos no sistema de saúde (SUS e Suplementar).
+Analisa sistematicamente as tecnologias radiológicas. Investiga custos, efetividade, impactos organizacionais e éticos da incorporação de novos equipamentos no sistema de saúde.
 :::
 :::
 :::
 
-<!-- LINHA 4 -->
 ::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
 ::: {.card .h-100 .shadow-sm .border-light}
 ::: {.card-body}
 #### <i class="bi bi-rulers text-primary"></i> Metrologia e Dosimetria em Processos de Radiação
-Fundamenta a precisão das medidas de radiação. Desenvolve metodologias para calibração de detectores, dosimetria clínica em feixes de radiação e garantia da rastreabilidade metrológica em ambientes hospitalares.
+Fundamenta a precisão das medidas de radiação. Desenvolve metodologias para calibração de detectores e garantia da rastreabilidade metrológica em ambientes hospitalares.
 :::
 :::
 :::
 
-<!-- LINHA 5 -->
 ::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
 ::: {.card .h-100 .shadow-sm .border-light}
 ::: {.card-body}
 #### <i class="bi bi-activity text-primary"></i> Metrologia e Dosimetria em Medicina Nuclear
-Específica para fontes não seladas. Aborda a quantificação de atividade em calibradores de dose e a dosimetria interna personalizada para pacientes submetidos a terapias com radionuclídeos.
+Específica para fontes não seladas. Aborda a quantificação de atividade em calibradores de dose e a dosimetria interna personalizada para terapias com radionuclídeos.
 :::
 :::
 :::
 
-<!-- LINHA 6 -->
 ::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
 ::: {.card .h-100 .shadow-sm .border-light}
 ::: {.card-body}
 #### <i class="bi bi-lightbulb text-primary"></i> Biofotônica: Diagnóstico e Terapia
-Explora a interação da luz com tecidos biológicos. Investiga o uso de Lasers e LEDs em processos de reabilitação, descontaminação (Terapia Fotodinâmica - PDT) e diagnósticos ópticos não invasivos.
+Explora a interação da luz com tecidos biológicos. Investiga o uso de Lasers e LEDs em processos de reabilitação, descontaminação (PDT) e diagnósticos ópticos.
 :::
 :::
 :::
 
-<!-- LINHA 7 -->
 ::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
 ::: {.card .h-100 .shadow-sm .border-light}
 ::: {.card-body}
 #### <i class="bi bi-box-seam text-primary"></i> Biomateriais e Nanotecnologia
-Desenvolve novos materiais para saúde. Inclui síntese de nanopartículas para *drug delivery*, suportes para engenharia de tecidos e uso da radiação para esterilização ou modificação de propriedades de biomateriais.
+Desenvolve novos materiais para saúde. Inclui síntese de nanopartículas para *drug delivery* e uso da radiação para esterilização ou modificação de biomateriais.
 :::
 :::
 :::
 
-<!-- LINHA 8 -->
 ::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
 ::: {.card .h-100 .shadow-sm .border-light}
 ::: {.card-body}
 #### <i class="bi bi-recycle text-primary"></i> Aplicações Nucleares: Saúde e Ambiente
-Investiga a interface entre o uso de radiação e o meio ambiente. Trata da gestão de rejeitos radioativos hospitalares, proteção ambiental e estudos epidemiológicos relacionados à exposição à radiação.
+Investiga a interface entre o uso de radiação e o meio ambiente. Trata da gestão de rejeitos radioativos, proteção ambiental e estudos epidemiológicos.
 :::
 :::
 :::
 
-<!-- LINHA 9 -->
 ::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
 ::: {.card .h-100 .shadow-sm .border-light}
 ::: {.card-body}
 #### <i class="bi bi-search text-primary"></i> ATS em Radiofármacos
-Um recorte específico da Avaliação de Tecnologias, focado na farmacoeconomia e nos impactos regulatórios da introdução de novas moléculas radioativas no mercado brasileiro.
+Um recorte específico da Avaliação de Tecnologias, focado na farmacoeconomia e nos impactos regulatórios da introdução de novas moléculas radioativas.
 :::
 :::
 :::
 
+::: 
+::: {.card .border-primary .shadow .mt-5}
+::: {.card-header .bg-primary .text-white}
+### <i class="bi bi-cpu-fill"></i> Linha Transversal: Inteligência Artificial e Ciência de Dados em Saúde
+:::
+::: {.card-body}
+::: {.grid .align-items-center}
+
+::: {.g-col-12 .g-col-md-8}
+Esta linha integra tecnologias de **Inteligência Artificial (IA)**, **Machine Learning** e **Big Data** a todas as áreas de concentração do programa. O objetivo é extrair conhecimento de grandes volumes de dados para otimizar diagnósticos, tratamentos e gestão em saúde.
+
+**Exemplos de aplicações desenvolvidas:**
+
+* **Imagens Médicas:** Aplicação de algoritmos de *Deep Learning* (como Redes Neurais Convolucionais) para segmentação automática de órgãos e tumores, classificação de patologias e reconstrução de imagens em CT, MRI e PET.
+* **Radiômica:** Extração massiva de *features* quantitativas de imagens médicas para descoberta de biomarcadores de imagem e suporte ao prognóstico.
+* **Análise Preditiva no SUS:** Mineração de dados públicos (DATASUS/SIH/SIA) para avaliar a eficácia de políticas de saúde, como o impacto do estadiamento no câncer de mama.
+* **Automação em Radioterapia:** Uso de redes neurais para previsão de parâmetros dosimétricos e suporte à decisão na aprovação de planejamentos complexos.
 :::
 
-::: {.callout-note}
+::: {.g-col-12 .g-col-md-4 .text-center}
+<i class="bi bi-images text-primary" style="font-size: 4rem; opacity: 0.6; margin-right: 15px;"></i>
+<i class="bi bi-robot text-primary" style="font-size: 5rem; opacity: 0.9;"></i>
+:::
+
+:::
+:::
+:::
+
+::: {.callout-note .mt-5}
 ## Orientação
 Interessado em desenvolver projeto em uma destas linhas? Consulte a página do [Corpo Docente](docentes/docentes.qmd) para identificar professores que atuam na sua área de interesse.
 :::
