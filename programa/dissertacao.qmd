@@ -1,0 +1,198 @@
+---
+title: "A Dissertação e o Produto Técnico"
+subtitle: "Inovação, Aplicabilidade e Impacto Real na Saúde"
+format:
+  html:
+    toc: true
+---
+
+No Mestrado Profissional em Tecnologia das Radiações em Ciências da Saúde, a dissertação não é apenas um documento acadêmico para ficar na prateleira. Ela é o **veículo de uma inovação**.
+
+O plano de trabalho deve propor a **solução de problemas reais**, gerando produtos de impacto ou aprimorando procedimentos que resultem na melhoria direta da prática assistencial em saúde.
+
+---
+
+## O Que Esperamos de Você?
+
+Confira nos cards abaixo a filosofia do nosso programa.
+
+::: {.grid .my-5}
+
+::: {.g-col-12 .g-col-md-6}
+```{=html}
+<div class="card h-100 border-primary shadow-sm">
+  <div class="card-body text-center">
+    <i class="bi bi-bullseye text-primary" style="font-size: 3rem;"></i>
+    <h4 class="card-title mt-3">O Foco: Problema Real</h4>
+    <p class="card-text text-muted">
+      A teoria serve como alicerce para resolver um <strong>problema prático</strong>. O objetivo é aprimorar ações e condutas no diagnóstico ou tratamento de doenças, trazendo inovação para dentro do hospital ou da indústria.
+    </p>
+  </div>
+</div>
+```
+:::
+
+::: {.g-col-12 .g-col-md-6}
+```{=html}
+<div class="card h-100 border-success shadow-sm">
+  <div class="card-body text-center">
+    <i class="bi bi-box-seam-fill text-success" style="font-size: 3rem;"></i>
+    <h4 class="card-title mt-3">O Produto (PTT)</h4>
+    <p class="card-text text-muted">
+      Além da dissertação escrita, você deve entregar um <strong>Produto Técnico ou Tecnológico</strong> tangível. O plano de trabalho deve explicitar claramente qual será esse produto e como ele será aplicado.
+    </p>
+  </div>
+</div>
+```
+:::
+
+:::
+---
+
+## Os 4 Pilares de Avaliação
+
+Seu trabalho será avaliado com base nestes quatro critérios fundamentais definidos pela CAPES e pelo nosso regulamento:
+
+::: {.grid .text-center .mb-5}
+
+::: {.g-col-6 .g-col-md-3}
+```{=html}
+<div class="p-3 border rounded bg-light h-100">
+  <i class="bi bi-lightning-charge-fill text-warning mb-2" style="font-size: 2rem;"></i>
+  <h5>Impacto</h5>
+  <small>Mudanças concretas causadas pelo produto no ambiente em que está inserido.</small>
+</div>
+```
+:::
+
+::: {.g-col-6 .g-col-md-3}
+```{=html}
+<div class="p-3 border rounded bg-light h-100">
+  <i class="bi bi-tools text-secondary mb-2" style="font-size: 2rem;"></i>
+  <h5>Aplicabilidade</h5>
+  <small>Facilidade de emprego e reprodutibilidade da solução na sociedade.</small>
+</div>
+```
+:::
+
+::: {.g-col-6 .g-col-md-3}
+```{=html}
+<div class="p-3 border rounded bg-light h-100">
+  <i class="bi bi-lightbulb-fill text-primary mb-2" style="font-size: 2rem;"></i>
+  <h5>Inovação</h5>
+  <small>Intensidade do conhecimento inédito aplicado na criação do produto.</small>
+</div>
+```
+:::
+
+::: {.g-col-6 .g-col-md-3}
+```{=html}
+<div class="p-3 border rounded bg-light h-100">
+  <i class="bi bi-diagram-3-fill text-danger mb-2" style="font-size: 2rem;"></i>
+  <h5>Complexidade</h5>
+  <small>Grau de interação entre atores e conhecimentos necessários para o desenvolvimento.</small>
+</div>
+```
+:::
+
+:::
+
+---
+
+## O Que Pode Ser um Produto?
+
+O Mestrado Profissional do IPEN aceita uma ampla gama de produções, desde que devidamente justificadas. Veja abaixo as categorias principais qualificáveis:
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4}
+```{=html}
+<div class="card h-100">
+  <div class="card-header bg-light">
+    <strong><i class="bi bi-laptop"></i> Softwares e Apps</strong>
+  </div>
+  <div class="card-body">
+    <p>Programas de computador, aplicativos móveis, ambientes virtuais ou websites.</p>
+    <p class="small text-muted"><strong>Exemplo:</strong> Plugin para sistema de planejamento de radioterapia ou App para gestão de rejeitos.</p>
+  </div>
+</div>
+```
+:::
+
+::: {.g-col-12 .g-col-md-4}
+```{=html}
+<div class="card h-100">
+  <div class="card-header bg-light">
+    <strong><i class="bi bi-book-half"></i> Educação e Treinamento</strong>
+  </div>
+  <div class="card-body">
+    <p>Materiais didáticos, cursos de formação profissional, vídeos de treinamento ou produtos de mídia.</p>
+    <p class="small text-muted"><strong>Exemplo:</strong> Curso EAD sobre dosimetria clínica ou Manual interativo para enfermeiros.</p>
+  </div>
+</div>
+```
+:::
+
+::: {.g-col-12 .g-col-md-4}
+```{=html}
+<div class="card h-100">
+  <div class="card-header bg-light">
+    <strong><i class="bi bi-file-earmark-medical"></i> Manuais e Protocolos</strong>
+  </div>
+  <div class="card-body">
+    <p>Protocolos Operacionais Padrão (POP), manuais de operação técnica ou adequação tecnológica.</p>
+    <p class="small text-muted"><strong>Exemplo:</strong> Novo protocolo de CQ para Medicina Nuclear ou Guia de proteção radiológica.</p>
+  </div>
+</div>
+```
+:::
+
+::: {.g-col-12 .g-col-md-4}
+```{=html}
+<div class="card h-100">
+  <div class="card-header bg-light">
+    <strong><i class="bi bi-shield-lock-fill"></i> Propriedade Intelectual</strong>
+  </div>
+  <div class="card-body">
+    <p>Patentes depositadas/concedidas, registros de desenho industrial ou transferência de <em>Know-how</em>.</p>
+    <p class="small text-muted"><strong>Exemplo:</strong> Patente de um novo dispositivo de imobilização ou síntese de radiofármaco inovador.</p>
+  </div>
+</div>
+```
+:::
+
+::: {.g-col-12 .g-col-md-4}
+```{=html}
+<div class="card h-100">
+  <div class="card-header bg-light">
+    <strong><i class="bi bi-rocket-takeoff"></i> Empresas e Startups</strong>
+  </div>
+  <div class="card-body">
+    <p>Criação ou incubação de organizações inovadoras como Startups, Spin-offs ou Empresas Júnior.</p>
+    <p class="small text-muted"><strong>Exemplo:</strong> Modelagem de negócio para uma Startup de dosimetria personalizada.</p>
+  </div>
+</div>
+```
+:::
+
+::: {.g-col-12 .g-col-md-4}
+```{=html}
+<div class="card h-100">
+  <div class="card-header bg-light">
+    <strong><i class="bi bi-bank"></i> Regulação e Dados</strong>
+  </div>
+  <div class="card-body">
+    <p>Elaboração de normas técnicas, marcos regulatórios ou bases de dados técnico-científicas.</p>
+    <p class="small text-muted"><strong>Exemplo:</strong> Proposta de norma para novas tecnologias ou Banco de dados de imagens médicas curadas.</p>
+  </div>
+</div>
+```
+:::
+
+:::
+---
+
+::: {.callout-note icon="true"}
+## Ética e Conformidade
+Todo projeto envolvendo seres humanos, animais ou OGM deve ser submetido e aprovado pelos respectivos comitês (CEP, CEUA, CIBio) antes do início da coleta de dados, garantindo a integridade da pesquisa.
+:::

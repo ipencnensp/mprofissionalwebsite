@@ -48,6 +48,8 @@ website:
             href: programa/docentes/docentes.qmd
           - text: "Disciplinas Oferecidas"
             href: programa/disciplinas.qmd
+          - text: "A Dissertação"
+            href: programa/dissertacao.qmd
 
       - text: "Acadêmico"
         menu:
