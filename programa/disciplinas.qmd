@@ -33,7 +33,7 @@ Abaixo listamos as disciplinas regulares do programa. Clique no nome da discipli
 
 **Corpo Docente** 
 
-* [Profa. Dra. Lorena Pozzo](docentes/professor/lorena-pozzo.qmd)
+<!-- * [Profa. Dra. Lorena Pozzo](docentes/professor/lorena-pozzo.qmd) -->
 * [Prof. Dr. Julian Marco Barbosa Shorto](docentes/professor/julian-marco-barbosa-shorto.qmd)
 * [Profa. Dra. Maria da Penha Albuquerque Potiens](docentes/professor/maria-da-penha-albuquerque-potiens.qmd)
 :::
@@ -242,7 +242,7 @@ Abaixo listamos as disciplinas regulares do programa. Clique no nome da discipli
 
 **Professores:** 
 
-* [Profa. Dra. Lorena Pozzo](docentes/professor/lorena-pozzo.qmd)
+<!-- * [Profa. Dra. Lorena Pozzo](docentes/professor/lorena-pozzo.qmd) -->
 * [Profa. Dra. Martha Simões Ribeiro](docentes/professor/martha-simoes-ribeiro.qmd)
 * [Profa. Dra. Maria Elisa Chuery Martins Rostelato](docentes/professor/maria-elisa-chuery-martins-rostelato.qmd)
 
@@ -270,7 +270,7 @@ Abaixo listamos as disciplinas regulares do programa. Clique no nome da discipli
 
 
 * [Prof. Dr. Mário Olímpio de Menezes](docentes/professor/mario-olimpio-de-menezes.qmd)
-* [Profa. Dra. Lorena Pozzo](docentes/professor/lorena-pozzo.qmd)
+<!-- * [Profa. Dra. Lorena Pozzo](docentes/professor/lorena-pozzo.qmd) -->
 
 :::
 

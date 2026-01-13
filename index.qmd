@@ -12,6 +12,37 @@ format:
 ![](images/banner-topo.png){width=100% style="max-height: 600px; object-fit: cover;" alt="Banner panorâmico mostrando ambientes de radioterapia, sala de aula e representação abstrata de lasers e células."}
 :::
 
+::: {.column-screen .text-white .py-5 style="background: linear-gradient(135deg, #021a40 0%, #000b1a 100%);"}
+
+::: {.container}
+::: {.grid .align-items-center}
+
+::: {.g-col-12 .g-col-lg-6 .text-center .mb-4 .mb-lg-0}
+![](images/banner_capes_4.jpg){.img-fluid .rounded style="max-height: 450px; box-shadow: 0 0 40px rgba(0, 0, 0, 0.5);"}
+:::
+
+::: {.g-col-12 .g-col-lg-6}
+<h2 class="display-5 fw-bold text-warning mb-3">Excelência Confirmada!</h2>
+
+<p class="lead mb-4" style="font-size: 1.25rem;">
+  O IPEN celebra uma conquista histórica. Atingimos a <strong>Nota 4</strong> na Avaliação Quadrienal da CAPES, consolidando a qualidade do nosso ensino e o impacto das nossas pesquisas na sociedade.
+</p>
+
+<div class="d-flex gap-3 flex-wrap">
+  <a href="institucional/noticias/nota-4-capes.qmd" class="btn btn-warning btn-lg fw-bold text-dark px-4 shadow">
+    <i class="bi bi-star-fill"></i> Ler a Notícia
+  </a>
+  <a href="edital.qmd" class="btn btn-outline-light btn-lg px-4">
+    <i class="bi bi-arrow-right-circle"></i> Participe do Processo Seletivo
+  </a>
+</div>
+:::
+
+:::
+:::
+
+:::
+
 ::: {.container .my-5}
 
 # O Programa

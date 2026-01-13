@@ -1,0 +1,50 @@
+---
+title: "Conquista Histórica: Mestrado Profissional atinge Nota 4 na CAPES"
+subtitle: "Resultado oficial consolida a excelência do Programa de Tecnologia das Radiações"
+date: 2026-01-13
+categories: [Institucional, Destaque, CAPES]
+image: ../../images/banner_capes_4.jpg
+format:
+  html:
+    toc: false
+---
+
+::: {.text-center .mb-5}
+![](../../images/banner_capes_4.jpg){.img-fluid .rounded .shadow style="max-width: 80%;"}
+:::
+
+::: {.lead}
+É oficial. O **Mestrado Profissional em Tecnologia das Radiações em Ciências da Saúde (MP-TRCS)** do IPEN-CNEN conquistou o conceito 4 na Avaliação Quadrienal da CAPES.
+:::
+
+
+Este resultado representa um salto de qualidade e o reconhecimento definitivo da maturidade acadêmica e científica do programa, que completa seu primeiro ciclo avaliativo completo com desempenho de excelência.
+
+## Do Início à Consolidação
+
+A trajetória do MP-TRCS é marcada por um crescimento acelerado e consistente:
+
+* **2019:** Início oficial do programa (Agosto).
+* **1ª Avaliação:** Realizada com apenas 2,5 anos de existência, o programa obteve a nota inicial, natural para cursos recém-criados.
+* **Ciclo 2021-2024:** Nesta primeira avaliação quadrienal completa, o programa demonstrou robustez em todos os quesitos, culminando na **elevação para a Nota 4**.
+
+## O Que Avalia a Nota 4?
+
+O conceito 4 atesta que o programa possui desempenho "Bom" a "Muito Bom" e é atribuído apenas a cursos que demonstram:
+
+1.  **Produção Intelectual de Alto Nível:** Publicações relevantes em periódicos qualificados e, crucialmente para um mestrado profissional, o desenvolvimento de **Produtos Técnicos e Tecnológicos** aplicáveis ao SUS e ao mercado.
+2.  **Impacto Social:** Projetos que resolvem problemas reais da saúde pública, oncologia, radiofarmácia e proteção radiológica.
+3.  **Qualidade da Formação:** Acompanhamento efetivo dos discentes e sucesso dos egressos no mercado de trabalho.
+
+## Palavra da Coordenação
+
+> "Esta conquista pertence a cada aluno que se dedicou à sua pesquisa, a cada docente que orientou com rigor e ao núcleo de apoio administrativo que mantém nossa infraestrutura de ponta. A Nota 4 coloca o IPEN em um novo patamar de visibilidade nacional e abre portas para parcerias estratégicas e, futuramente, para a criação do Doutorado Profissional."
+
+Com este selo de qualidade, o IPEN reafirma sua liderança na formação de recursos humanos especializados para o setor nuclear e de saúde no Brasil.
+
+---
+
+::: {.d-flex .justify-content-center .gap-3 .mt-5}
+[<i class="bi bi-arrow-left"></i> Voltar para Home](../../index.qmd){.btn .btn-outline-primary}
+[Acesse o Edital 2026 <i class="bi bi-file-earmark-text"></i>](../../edital.qmd){.btn .btn-primary}
+:::
