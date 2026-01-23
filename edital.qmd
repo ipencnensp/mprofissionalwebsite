@@ -8,8 +8,9 @@ format:
 ---
 
 ::: {.callout-important icon="true"}
-## Inscrições Abertas
-O período de inscrições vai de **26/11/2025 a 23/01/2026**.
+## Inscrições Prorrogadas! ~~Abertas~~
+O período de inscrições vai até **28/01/2026**! 
+<!-- de **26/11/2025 a 23/01/2026**. -->
 :::
 
 ## Visão Geral
@@ -42,8 +43,8 @@ Fique atento às datas principais descritas no edital:
 
 | Data | Etapa |
 | :--- | :--- |
-| **26/11/25 a 23/01/26** | **Período de Inscrições (via Sistema ATRIO+)** |
-| 26/01/2026 | Divulgação das inscrições deferidas |
+| **26/11/25 a 28/01/26** | **Período de Inscrições (via Sistema ATRIO+)** |
+| 29/01/2026 | Divulgação das inscrições deferidas |
 | **29/01/2026** | **Etapa 1:** Prova Objetiva e Proficiência (Presencial)
 
 

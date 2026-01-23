@@ -17,7 +17,7 @@ website:
   announcement: 
     icon: info-circle
     dismissable: true
-    content: "**Processo Seletivo Aberto** - <a href='/edital.qmd'> Visite a Página </a>"
+    content: "**INSCRIÇÕES PARA PROCESSO SELETIVO PRORROGADAS ATÉ 28/01/2026**  - <a href='/edital.qmd'> Visite a Página </a>"
     type: primary
     position: below-navbar
   navbar:
