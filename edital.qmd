@@ -54,13 +54,13 @@ Acesse abaixo os formulários (**Anexos**) do Edital. Certifique-se de estar log
 | Documento | Descrição | Acesso |
 | :--- | :--- | :---: |
 | **IGC** | Índice Geral de Cursos - 2024-2025 **Corrigido** (Notas das IES) | [<i class="bi bi-folder-symlink"></i> Acessar](arquivos/IGC_2024_2025_CORRIGIDO.pdf){.btn .btn-sm .btn-outline-primary target="_blank"} |
-| **Anexo 1** | Anexo 1 - FORMULÁRIO DE INSCRIÇÃO NO PROCESSO SELETIVO 08/2026 MP-TRCS | [<i class="bi bi-folder-symlink"></i> Acessar](arquivos/Anexo 1.docx){.btn .btn-sm .btn-outline-primary target="_blank"} |
-| **Anexo 2** | Anexo 2 - TERMO DE COMPROMISSO | [<i class="bi bi-folder-symlink"></i> Acessar](arquivos/Anexo 2.docx){.btn .btn-sm .btn-outline-primary target="_blank"} |
-| **Anexo 3** | Anexo 3 - Proposta de pré-projeto de Pesquisa | [<i class="bi bi-folder-symlink"></i> Acessar](arquivos/Anexo 3.docx){.btn .btn-sm .btn-outline-primary target="_blank"} |
-| **Anexo 4** | Anexo 4 - Autoavaliação do Currículo Lattes | [<i class="bi bi-folder-symlink"></i> Acessar](arquivos/Anexo 4.docx){.btn .btn-sm .btn-outline-primary target="_blank"} |
-| **Anexo 5** | ANEXO 5 - Promoção de Políticas de ações afirmativas | [<i class="bi bi-folder-symlink"></i> Acessar](arquivos/Anexo 5.docx){.btn .btn-sm .btn-outline-primary target="_blank"} |
-| **Anexo 5a**| ANEXO 5a – Autodeclaração para as vagas das ações afirmativas | [<i class="bi bi-folder-symlink"></i> Acessar](arquivos/Anexo 5a.docx){.btn .btn-sm .btn-outline-primary target="_blank"} |
-| **Anexo 5b**| ANEXO 5b – Pessoa com Deficiência |    [<i class="bi bi-folder-symlink"></i> Acessar](arquivos/Anexo 5b.docx){.btn .btn-sm .btn-outline-primary target="_blank"} |
+| **Anexo 1** | Anexo 1 - FORMULÁRIO DE INSCRIÇÃO NO PROCESSO SELETIVO 08/2026 MP-TRCS | [<i class="bi bi-folder-symlink"></i> Acessar](arquivos/Anexo 1 - Formulário de Inscrição.docx){.btn .btn-sm .btn-outline-primary target="_blank"} |
+| **Anexo 2** | Anexo 2 - TERMO DE COMPROMISSO | [<i class="bi bi-folder-symlink"></i> Acessar](arquivos/Anexo 2 - Termo de compromisso.docx){.btn .btn-sm .btn-outline-primary target="_blank"} |
+| **Anexo 3** | Anexo 3 - Proposta de pré-projeto de Pesquisa | [<i class="bi bi-folder-symlink"></i> Acessar](arquivos/Anexo 3 - Proposta de pré-projeto de Pesquisa.docx){.btn .btn-sm .btn-outline-primary target="_blank"} |
+| **Anexo 4** | Anexo 4 - Autoavaliação do Currículo Lattes | [<i class="bi bi-folder-symlink"></i> Acessar](arquivos/Anexo 4 - Autoavaliação do Currículo Lattes.docx){.btn .btn-sm .btn-outline-primary target="_blank"} |
+| **Anexo 5** | ANEXO 5 - Promoção de Políticas de ações afirmativas | [<i class="bi bi-folder-symlink"></i> Acessar](arquivos/Anexo 5  - Promoção de Políticas de ações afirmativas.docx){.btn .btn-sm .btn-outline-primary target="_blank"} |
+| **Anexo 5a**| ANEXO 5a – Autodeclaração para as vagas das ações afirmativas | [<i class="bi bi-folder-symlink"></i> Acessar](arquivos/Anexo 5a – Auto declaração para as vagas das ações afirmativas.docx){.btn .btn-sm .btn-outline-primary target="_blank"} |
+| **Anexo 5b**| ANEXO 5b – Pessoa com Deficiência |    [<i class="bi bi-folder-symlink"></i> Acessar](arquivos/ANEXO 5b – Pessoa com Deficiência.docx){.btn .btn-sm .btn-outline-primary target="_blank"} |
 
 
 <!-- | **Anexos** | Anexos do Edital do Processo Seletivo Edital Nº 08/2026 *(ingresso em março de 2026)*. | | -->
