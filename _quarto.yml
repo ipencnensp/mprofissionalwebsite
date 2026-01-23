@@ -101,6 +101,9 @@ format:
 resources:
   - "programa/docentes/*/fotos/"
   - "images/*"
+  - "arquivos/*"
+  - CNAME
+  - .nojekyll
 
 lang: pt-BR
 

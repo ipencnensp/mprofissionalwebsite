@@ -23,7 +23,7 @@ O **Instituto de Pesquisas Energéticas e Nucleares (IPEN-CNEN)** torna público
 
 ::: {.grid .my-4}
 ::: {.g-col-12 .g-col-md-6 .text-center}
-<a href="https://drive.google.com/file/d/10D_3aaCG6gk4lbteNCVumZh8wf3ntcgb/view?usp=drive_link" class="btn btn-outline-primary btn-lg w-100" target="_blank">
+<a href="arquivos/Edital-MP-TRCS-2026 - Turma 08.pdf" class="btn btn-outline-primary btn-lg w-100" target="_blank">
   <i class="bi bi-file-earmark-pdf"></i> Baixar Edital Completo
 </a>
 :::
@@ -53,5 +53,14 @@ Acesse abaixo os formulários (**Anexos**) do Edital. Certifique-se de estar log
 
 | Documento | Descrição | Acesso |
 | :--- | :--- | :---: |
-| **Anexos** | Anexos do Edital do Processo Seletivo Edital Nº 07/2025 *(ingresso em março de 2026)*. | [<i class="bi bi-folder-symlink"></i> Acessar](https://drive.google.com/drive/folders/1baMzT4xYHHmzXDVsMxucqseUKf3BnMKj){.btn .btn-sm .btn-outline-primary target="_blank"} |
+| **IGC** | Índice Geral de Cursos - 2024-2025 **Corrigido** (Notas das IES) | [<i class="bi bi-folder-symlink"></i> Acessar](arquivos/IGC_2024_2025_CORRIGIDO.pdf){.btn .btn-sm .btn-outline-primary target="_blank"} |
+| **Anexo 1** | Anexo 1 - FORMULÁRIO DE INSCRIÇÃO NO PROCESSO SELETIVO 08/2026 MP-TRCS | [<i class="bi bi-folder-symlink"></i> Acessar](arquivos/Anexo 1.docx){.btn .btn-sm .btn-outline-primary target="_blank"} |
+| **Anexo 2** | Anexo 2 - TERMO DE COMPROMISSO | [<i class="bi bi-folder-symlink"></i> Acessar](arquivos/Anexo 2.docx){.btn .btn-sm .btn-outline-primary target="_blank"} |
+| **Anexo 3** | Anexo 3 - Proposta de pré-projeto de Pesquisa | [<i class="bi bi-folder-symlink"></i> Acessar](arquivos/Anexo 3.docx){.btn .btn-sm .btn-outline-primary target="_blank"} |
+| **Anexo 4** | Anexo 4 - Autoavaliação do Currículo Lattes | [<i class="bi bi-folder-symlink"></i> Acessar](arquivos/Anexo 4.docx){.btn .btn-sm .btn-outline-primary target="_blank"} |
+| **Anexo 5** | ANEXO 5 - Promoção de Políticas de ações afirmativas | [<i class="bi bi-folder-symlink"></i> Acessar](arquivos/Anexo 5.docx){.btn .btn-sm .btn-outline-primary target="_blank"} |
+| **Anexo 5a**| ANEXO 5a – Autodeclaração para as vagas das ações afirmativas | [<i class="bi bi-folder-symlink"></i> Acessar](arquivos/Anexo 5a.docx){.btn .btn-sm .btn-outline-primary target="_blank"} |
+| **Anexo 5b**| ANEXO 5b – Pessoa com Deficiência |    [<i class="bi bi-folder-symlink"></i> Acessar](arquivos/Anexo 5b.docx){.btn .btn-sm .btn-outline-primary target="_blank"} |
 
+
+<!-- | **Anexos** | Anexos do Edital do Processo Seletivo Edital Nº 08/2026 *(ingresso em março de 2026)*. | | -->
