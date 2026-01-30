@@ -56,10 +56,11 @@ Fique atento às datas principais descritas no edital:
 
 | Data | Etapa |
 | :--- | :--- |
-| **26/11/25 a 28/01/26** | **Período de Inscrições (via Sistema ATRIO+)** |
-| 29/01/2026 | Divulgação das inscrições deferidas |
-| **29/01/2026** | **Etapa 1:** Prova Objetiva e Proficiência (Presencial)
+| 26/11/25 a 28/01/26 | ~~**Período de Inscrições (via Sistema ATRIO+)**~~ |
+| 29/01/2026 | ~~Divulgação das inscrições deferidas~~ |
+| 29/01/2026 | ~~**Etapa 1:** Prova Objetiva e Proficiência (Presencial)~~  | 
 | **30/01/2026** | [<i class="bi bi-file-earmark-pdf"></i> Convocação para Etapa 2 -- Entrevistas](arquivos/2026-Divulgacao-da-lista-de-aprovados-para-entrevista-Turma08.pdf) |
+| **04/02/2026** |  **Entrevistas, a partir de 14h** (cada candidato receberá seu horário da secretaria) |
 
 
 
