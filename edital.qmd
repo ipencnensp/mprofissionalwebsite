@@ -8,10 +8,10 @@ format:
 ---
 
 ::: {.callout-important icon="true"}
-## Candidatos Aprovados na Etapa 1! 
+## Candidatos Aprovados no Processo Seletivo! 
 
-<a href="arquivos/2026-Divulgacao-da-lista-de-aprovados-para-entrevista-Turma08.pdf" class="btn btn-outline-primary btn-lg w-100" target="_blank">
-  <i class="bi bi-file-earmark-pdf"></i> Lista de Convocados para Etapa 2 -- Entrevista
+<a href="arquivos/2026-Divulgacao-da-lista-de-aprovados-Turma08.pdf" class="btn btn-outline-primary btn-lg w-100" target="_blank">
+  <i class="bi bi-file-earmark-pdf"></i> Lista de Convocados para Matrícula -- Parabéns!
 </a>
 
 <!-- de **26/11/2025 a 23/01/2026**. -->
@@ -28,8 +28,8 @@ O **Instituto de Pesquisas Energéticas e Nucleares (IPEN-CNEN)** torna público
 
 ::: {.grid .my-4}
 ::: {.g-col-12 .g-col-md-6 .text-center}
-<a href="arquivos/2026-Divulgacao-da-lista-de-aprovados-para-entrevista-Turma08.pdf" class="btn btn-primary btn-lg w-100" target="_blank">
-  <i class="bi bi-file-earmark-pdf"></i> Lista de Convocados para Entrevista
+<a href="arquivos/2026-Divulgacao-da-lista-de-aprovados-Turma08.pdf" class="btn btn-primary btn-lg w-100" target="_blank">
+  <i class="bi bi-file-earmark-pdf"></i> Lista de Aprovados no Processo Seletivo
 </a>
 :::
 ::: {.g-col-12 .g-col-md-6 .text-center}
@@ -59,8 +59,9 @@ Fique atento às datas principais descritas no edital:
 | 26/11/25 a 28/01/26 | ~~**Período de Inscrições (via Sistema ATRIO+)**~~ |
 | 29/01/2026 | ~~Divulgação das inscrições deferidas~~ |
 | 29/01/2026 | ~~**Etapa 1:** Prova Objetiva e Proficiência (Presencial)~~  | 
-| **30/01/2026** | [<i class="bi bi-file-earmark-pdf"></i> Convocação para Etapa 2 -- Entrevistas](arquivos/2026-Divulgacao-da-lista-de-aprovados-para-entrevista-Turma08.pdf) |
+| **30/01/2026** | ~~**Convocação para Etapa 2 -- Entrevistas**~~ |
 | **04/02/2026** |  **Entrevistas, a partir de 14h** (cada candidato receberá seu horário da secretaria) |
+| **06/02/2026** |  [<i class="bi bi-filemark"></i> **Convocação para Matrícula -- Candidados aprovados no Processo Seletivo** ](arquivos/2026-Divulgacao-da-lista-de-aprovados-Turma08.pdf) |
 
 
 

@@ -17,7 +17,7 @@ website:
   announcement: 
     icon: info-circle
     dismissable: true
-    content: "**RELAÇÃO DE CANDIDATOS APROVADOS PARA ENTREVISTA - <a href='/edital.qmd'> Visite a Página </a>"
+    content: "RELAÇÃO DE CANDIDATOS APROVADOS NO PROCESSO SELETIVO - <a href='/edital.qmd'> Visite a Página </a>"
     type: primary
     position: below-navbar
   navbar:
