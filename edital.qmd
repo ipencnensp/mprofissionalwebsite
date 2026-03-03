@@ -1,5 +1,5 @@
 ---
-title: "Processo Seletivo 2026"
+title: "Edital de Vagas Remanescentes -- Processo Seletivo 2026"
 subtitle: "Ingresso na Turma 08 - Março/2026"
 format:
   html:
@@ -8,10 +8,10 @@ format:
 ---
 
 ::: {.callout-important icon="true"}
-## Candidatos Aprovados no Processo Seletivo! 
+## Edital de Vagas Remanescentes! 
 
-<a href="arquivos/2026-Divulgacao-da-lista-de-aprovados-Turma08.pdf" class="btn btn-outline-primary btn-lg w-100" target="_blank">
-  <i class="bi bi-file-earmark-pdf"></i> Lista de Convocados para Matrícula -- Parabéns!
+<a href="arquivos/2026-Edital-MP-TRCS-03-2026-Vagas-Remanescentes-Turma08.pdf" class="btn btn-outline-primary btn-lg w-100" target="_blank">
+  <i class="bi bi-file-earmark-pdf"></i> Acesse aqui o Edital de Vagas Remanescentes!
 </a>
 
 <!-- de **26/11/2025 a 23/01/2026**. -->
@@ -19,26 +19,26 @@ format:
 
 ## Visão Geral
 
-O **Instituto de Pesquisas Energéticas e Nucleares (IPEN-CNEN)** torna público o Edital Nº 07/2025 *(ingresso em março de 2026)* para seleção de candidatos ao curso de Mestrado Profissional em Tecnologia das Radiações em Ciências da Saúde.
+O **Instituto de Pesquisas Energéticas e Nucleares (IPEN-CNEN)** torna público o Edital Nº 03/2026 *(ingresso em março de 2026)* para seleção de candidatos ao curso de Mestrado Profissional em Tecnologia das Radiações em Ciências da Saúde -- **Vagas Remanescentes**
 
 * **Público-Alvo:** Graduados em Medicina, Farmácia, Biomedicina, Odontologia, Radiologia, Física Médica, Engenharias e áreas afins.
-* **Vagas:** 25 vagas (sendo 20% reservadas para ações afirmativas).
+* **Vagas:** 10 vagas (sendo 20% reservadas para ações afirmativas).
 * **Duração:** Até 24 meses.
 * **Aulas Presenciais:** Quartas e quintas (14h-19h30) e sextas (14h-16h30).
 
 ::: {.grid .my-4}
-::: {.g-col-12 .g-col-md-6 .text-center}
-<a href="arquivos/2026-Divulgacao-da-lista-de-aprovados-Turma08.pdf" class="btn btn-primary btn-lg w-100" target="_blank">
-  <i class="bi bi-file-earmark-pdf"></i> Lista de Aprovados no Processo Seletivo
-</a>
-:::
-::: {.g-col-12 .g-col-md-6 .text-center}
+<!-- ::: {.g-col-12 .g-col-md-6 .text-center} -->
+<!-- <a href="arquivos/2026-Divulgacao-da-lista-de-aprovados-Turma08.pdf" class="btn btn-primary btn-lg w-100" target="_blank"> -->
+<!--   <i class="bi bi-file-earmark-pdf"></i> Lista de Aprovados no Processo Seletivo - Edital 07/2025 -->
+<!-- </a> -->
+<!-- ::: -->
+<!-- ::: {.g-col-12 .g-col-md-6 .text-center} -->
 
-:::
+<!-- ::: -->
 
 ::: {.g-col-12 .g-col-md-6 .text-center}
-<a href="arquivos/Edital-MP-TRCS-2026 - Turma 08.pdf" class="btn btn-outline-primary btn-lg w-100" target="_blank">
-  <i class="bi bi-file-earmark-pdf"></i> Baixar Edital Completo
+<a href="arquivos/2026-Edital-MP-TRCS-03-2026-Vagas-Remanescentes-Turma08.pdf" class="btn btn-outline-primary btn-lg w-100" target="_blank">
+  <i class="bi bi-file-earmark-pdf"></i> Baixar Edital de Vagas Remanescentes Completo
 </a>
 :::
 ::: {.g-col-12 .g-col-md-6 .text-center}
@@ -58,10 +58,20 @@ Fique atento às datas principais descritas no edital:
 | :--- | :--- |
 | 26/11/25 a 28/01/26 | ~~**Período de Inscrições (via Sistema ATRIO+)**~~ |
 | 29/01/2026 | ~~Divulgação das inscrições deferidas~~ |
-| 29/01/2026 | ~~**Etapa 1:** Prova Objetiva e Proficiência (Presencial)~~  | 
-| **30/01/2026** | ~~**Convocação para Etapa 2 -- Entrevistas**~~ |
-| **04/02/2026** |  **Entrevistas, a partir de 14h** (cada candidato receberá seu horário da secretaria) |
-| **06/02/2026** |  [<i class="bi bi-filemark"></i> **Convocação para Matrícula -- Candidados aprovados no Processo Seletivo** ](arquivos/2026-Divulgacao-da-lista-de-aprovados-Turma08.pdf) |
+| ~~29/01/2026~~ | ~~Etapa 1: Prova Objetiva e Proficiência (Presencial)~~  | 
+| ~~30/01/2026~~ | ~~Convocação para Etapa 2 -- Entrevistas~~ |
+| ~~04/02/2026~~ | ~~Entrevistas, a partir de 14h** (cada candidato receberá seu horário da secretaria)~~ |
+| ~~06/02/2026~~ | ~~Convocação para Matrícula -- Candidados aprovados no Processo Seletivo~~ |
+| **02/03/2026**  |  **Divulgação Edital de Vagas Remanescentes ** | 
+| **02/03 a 06/03/2026** | **Inscrição no Processo Seletivo Vagas Remanescentes do MPTRCS no Atrio+** |
+| **06/03/2026** | **Divulgação das inscrições deferidas a partir das 17h**
+| 09/03/2026 | Etapa 1: Prova Objetiva e Proficiência (Presencial)  **13h30 -- 15h30** \
+               Etapa 2: Entrevistas presenciais **15h30 -- 16h30** | 
+| 09/03/2026 | Divulgação Aprovados **a partir das 18h** |
+| 10/03/2026 | Periodo de Recurso |
+| 10/03 a 13/03/2026 | Período de Matrículas |
+| 11/03/2026 | Início das Aulas **às 14h** |
+
 
 
 
