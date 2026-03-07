@@ -7,11 +7,11 @@ format:
     toc-depth: 2
 ---
 
-::: {.callout-important icon="true"}
+::: {.callout-warning icon="true"}
 ## Edital de Vagas Remanescentes! 
 
-<a href="arquivos/2026-Edital-MP-TRCS-03-2026-Vagas-Remanescentes-Turma08.pdf" class="btn btn-outline-primary btn-lg w-100" target="_blank">
-  <i class="bi bi-file-earmark-pdf"></i> Acesse aqui o Edital de Vagas Remanescentes!
+<a href="arquivos/2026-Inscricoes-homologadas-Vagas-Remanescentes-Turma08.pdf" class="btn btn-outline-primary btn-lg w-100" target="_blank">
+  <i class="bi bi-file-earmark-pdf"></i> Acesse aqui a Lista das Inscrições Homologadas!
 </a>
 
 <!-- de **26/11/2025 a 23/01/2026**. -->
@@ -27,14 +27,14 @@ O **Instituto de Pesquisas Energéticas e Nucleares (IPEN-CNEN)** torna público
 * **Aulas Presenciais:** Quartas e quintas (14h-19h30) e sextas (14h-16h30).
 
 ::: {.grid .my-4}
-<!-- ::: {.g-col-12 .g-col-md-6 .text-center} -->
-<!-- <a href="arquivos/2026-Divulgacao-da-lista-de-aprovados-Turma08.pdf" class="btn btn-primary btn-lg w-100" target="_blank"> -->
-<!--   <i class="bi bi-file-earmark-pdf"></i> Lista de Aprovados no Processo Seletivo - Edital 07/2025 -->
-<!-- </a> -->
-<!-- ::: -->
-<!-- ::: {.g-col-12 .g-col-md-6 .text-center} -->
+::: {.g-col-12 .g-col-md-6 .text-center}
+<a href="arquivos/2026-Inscricoes-homologadas-Vagas-Remanescentes-Turma08.pdf" class="btn btn-primary btn-lg w-100" target="_blank">
+  <i class="bi bi-file-earmark-pdf"></i> Lista das Inscrições Homologadas -- Vagas Remanescentes
+</a>
+:::
+::: {.g-col-12 .g-col-md-6 .text-center}
 
-<!-- ::: -->
+:::
 
 ::: {.g-col-12 .g-col-md-6 .text-center}
 <a href="arquivos/2026-Edital-MP-TRCS-03-2026-Vagas-Remanescentes-Turma08.pdf" class="btn btn-outline-primary btn-lg w-100" target="_blank">
