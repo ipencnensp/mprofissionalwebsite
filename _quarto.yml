@@ -17,7 +17,7 @@ website:
   announcement: 
     icon: info-circle
     dismissable: true
-    content: "ATENÇÃO! Lista das inscrições homologadas -- Vagas Remanescentes! - <a href='/edital.qmd'> Visite a Página </a>"
+    content: "ATENÇÃO! Lista dos candidatos aprovados - Vagas Remanescentes! - <a href='/edital.qmd'> Visite a Página </a>"
     type: primary
     position: below-navbar
   navbar:
