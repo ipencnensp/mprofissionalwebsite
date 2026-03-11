@@ -1,4 +1,57 @@
 ---
-title: "Calendário 2025/2026"
+title: "Calendário 1º Semestre de 2026 - Turma VIII"
+subtitle: "Mestrado Profissional em Tecnologia das Radiações em Ciências da Saúde"
+format:
+  html:
+    toc: true
+    toc-title: "Nesta página"
 ---
 
+O 1º semestre de 2026 (Turma VIII) terá início no dia 11 de março. Confira abaixo o quadro de horários, as datas das aulas e os prazos importantes do semestre.
+
+## Prazos e Datas Importantes
+
+* **Início das aulas:** 11/03/2026.
+* **Encerramento do semestre:** 17/07/2026.
+* **Lançamento dos conceitos finais em disciplinas no ATRIO+:** até 31/08/2026.
+
+## Disciplinas Ofertadas
+
+* [**MP-01** - Fundamentos de Física em Ciências da Saúde (Obrigatória)]{style="color: #d9534f; font-weight: bold;"}.
+* **MP-03** - Interações da Radiação Ionizante e Não Ionizante.
+* **MP-04** - Fundamentos de Radioterapia.
+* **MP-06** - Radiofarmácia I – Módulo Teórico.
+* **MP-08** - Avaliação de Tecnologia em Saúde.
+
+## Quadro de Horários
+
+| Horário | Quarta-feira | Quinta-feira | Sexta-feira |
+| :--- | :--- | :--- | :--- |
+| **14h00 às 16h30** | **MP-06** Radiofarmácia I – Módulo Teórico<br>*(Professores: Elaine, Emerson e Margareth)* | **MP-08** Avaliação de Tecnologia em Saúde<br>*(Professores: Maria Elisa, Martha e Patrick)* | **MP-01** Fundamentos de Física em Ciências da Saúde (Obrigatória)<br>*(Professores: Julian, Maria da Penha e Lugão)* |
+| **17h00 às 19h30** | **MP-04** Fundamentos de Radioterapia<br>*(Professores: Maria Elisa, Zeituni e Carla)* | **MP-03** Interações da Radiação Ionizante e Não Ionizante<br>*(Professores: Daniel, Denise e Patrick)* | *A confirmar* |
+
+## Calendário Detalhado de Aulas
+
+| Mês | MP-06 (Qua) | MP-04 (Qua) | MP-08 (Qui) | MP-03 (Qui) | MP-01 (Sex) |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Março** | 11, 18 e 25 | 11, 18 e 25 | 12, 19 e 26 | 12, 19 e 26 | 13, 20 e 27 |
+| **Abril** | 01, 08, 15, 22 e 29 | 01, 08, 15, 22 e 29 | 02, 09, 16, 23 e 30 | 02, 09, 16, 23 e 30 | 10, 17 e 24 |
+| **Maio** | 06, 13, 20 e 27 | 06, 13, 20 e 27 | 07, 14, 21 e 28 | 07, 14, 21 e 28 | 08, 15, 22 e 29 |
+| **Junho** | 03, 10, 17 e 24 | 03, 10, 17 e 24 | 11, 18 e 25 | 11, 18 e 25 | 12, 19 e 26 |
+| **Julho** | 01 | 01 | 02 e 09 | 02 e 09 | 03, 10 e 17 |
+| **Semanas de Aula** | **17** | **17** | **17** | **17** | **16** |
+
+## Feriados Nacionais
+
+* **03 de abril:** Sexta-feira Santa.
+* **01 de maio:** Dia do Trabalho.
+* **04 de junho:** Corpus Christi. 
+* **05 de junho:** Sexta-Feira - *ponte*
+
+---
+
+## Exigências de Créditos Mínimos
+
+::: {.callout-warning title="Artigo 35º do Regulamento"}
+O candidato ao Programa deverá completar pelo menos 100 unidades de crédito, cuja distribuição obedecerá ao seguinte critério: no mínimo 40 unidades de crédito em disciplinas do Programa, no mínimo 8 unidades de crédito em Seminários Gerais de Área e no mínimo 52 unidades de crédito no preparo do Trabalho Final de Curso.
+:::

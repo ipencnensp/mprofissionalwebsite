@@ -17,7 +17,7 @@ website:
   announcement: 
     icon: info-circle
     dismissable: true
-    content: "ATENÇÃO! Lista dos candidatos aprovados - Vagas Remanescentes! - <a href='/edital.qmd'> Visite a Página </a>"
+    content: "ATENÇÃO! Aulas iniciadas para a Turma 8 em 11/03/2026 às 14h - <a href='/academico/calendario.qmd'> Veja o Calendário Acadêmico. </a>"
     type: primary
     position: below-navbar
   navbar:
