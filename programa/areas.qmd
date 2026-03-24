@@ -26,7 +26,7 @@ Foco no aprofundamento dos princípios físicos e biológicos das interações d
 ![](/images/ac_med_nuc_radfarm.png){.rounded .shadow width=100% alt="Ilustração abstrata de um coração humano, moléculas radioativas e detectores digitais."}
 :::
 ::: {.g-col-12 .g-col-md-6 .order-1 .order-md-2}
-### Medicina Nuclear e Radiofarmácia
+### Radiofarmácia e Medicina Nuclear
 
 Esta área dedica-se à cadeia completa dos radiofármacos para diagnóstico (SPECT/PET) e terapia. Os alunos exploram desde a produção de radioisótopos em cíclotrons e geradores, passando pela síntese e controle de qualidade em radiofarmácia, até a aplicação clínica e os aspectos regulatórios da medicina nuclear personalizada.
 :::
