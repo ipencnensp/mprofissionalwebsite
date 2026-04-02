@@ -1,14 +1,61 @@
 ---
-title: "Edital de Vagas Remanescentes -- Processo Seletivo 2026"
-subtitle: "Ingresso na Turma 08 - Março/2026"
+title: "Editais"
+subtitle: "Central de documentos oficiais, processos seletivos e bolsas de estudo do MPTRCS"
 format:
   html:
     toc: true
-    toc-depth: 2
+    toc-title: "Nesta página"
+    
 ---
 
+
+Nesta página, você encontra os editais vigentes e o histórico de processos encerrados do Mestrado Profissional em Tecnologia das Radiações em Ciências da Saúde (MP-TRCS).
+
+---
+
+## Editais de Bolsas de Estudo
+
+### Edital nº 05/2026 - Bolsas para o Mestrado Profissional <span class="badge bg-success ms-2">Inscrições Abertas</span>
+
+O Programa de Pós-graduação Mestrado Profissional em Tecnologia das Radiações em Ciências da Saúde (MP-TRCS) torna público o edital para seleção de 3 (três) bolsas de estudo. A distribuição das vagas prevê 01 (uma) bolsa para candidatos autodeclarados pretos, pardos e indígenas, e 02 (duas) bolsas para ampla concorrência. O valor da bolsa mensal é de R$ 2.100,00.
+
+**Período de Inscrição:** 02 a 08 de abril de 2026.  
+**Como se inscrever:** Enviar a documentação exigida, incluindo os formulários abaixo devidamente preenchidos, para o e-mail smp@ipen.br.
+
+**1. Documento Oficial:**
+
+<a href="arquivos/Edital 05-2026 - de Bolsas para o Mestrado Profissional 2026 v2.pdf" target="_blank" class="btn btn-primary mb-4 mt-2 shadow-sm">
+  <i class="bi bi-file-earmark-pdf-fill"></i> Baixar Edital 05/2026 Completo (PDF)
+</a>
+
+**2. Anexos para Inscrição:**
+
+Faça o download dos formulários abaixo, preencha-os e anexe-os ao seu e-mail de inscrição junto com os demais documentos solicitados no Edital.
+
+<div class="d-flex flex-column gap-2" style="max-width: 600px;">
+
+  <a href="arquivos/Edital05-2026-Anexo I - Ficha de Inscrição 2026 v2.docx" class="btn btn-outline-dark text-start">
+    <i class="bi bi-file-earmark-word-fill text-primary"></i> Anexo I - Ficha de Inscrição (Word)
+  </a>
+
+  <a href="arquivos/Edital05-2026-Anexo II - Ficha de Autoavaliação 2026 v2.xlsx" class="btn btn-outline-dark text-start">
+    <i class="bi bi-file-earmark-excel-fill text-success"></i> Anexo II - Ficha de Autoavaliação (Excel)
+  </a>
+
+  <a href="arquivos/Edital05-2026-Anexo III – Autodeclaração Voluntária-2026 v2.docx" class="btn btn-outline-dark text-start">
+    <i class="bi bi-file-earmark-word-fill text-primary"></i> Anexo III - Autodeclaração Voluntária (Word)
+  </a>
+
+</div>
+
+<br>
+
+---
+
+## Processos Seletivos (Ingresso)
+
 ::: {.callout-important icon="true"}
-## Lista de Candidatos Aprovados -- Vagas Remanescentes! 
+### Lista de Candidatos Aprovados -- Vagas Remanescentes! 
 
 <a href="arquivos/2026-Canditados-Aprovados-Vagas-Remanescentes-Turma08.pdf" class="btn btn-outline-primary btn-lg w-100" target="_blank">
   <i class="bi bi-file-earmark-pdf"></i> Acesse aqui a Lista de Candidatos Aprovados -- Vagas Remanescentes!
@@ -17,7 +64,7 @@ format:
 <!-- de **26/11/2025 a 23/01/2026**. -->
 :::
 
-## Visão Geral
+### Visão Geral
 
 O **Instituto de Pesquisas Energéticas e Nucleares (IPEN-CNEN)** torna público o Edital Nº 03/2026 *(ingresso em março de 2026)* para seleção de candidatos ao curso de Mestrado Profissional em Tecnologia das Radiações em Ciências da Saúde -- **Vagas Remanescentes**
 
@@ -50,7 +97,7 @@ O **Instituto de Pesquisas Energéticas e Nucleares (IPEN-CNEN)** torna público
 
 ---
 
-## Cronograma do Processo Seletivo
+### Cronograma do Processo Seletivo
 
 Fique atento às datas principais descritas no edital:
 
@@ -75,7 +122,7 @@ Fique atento às datas principais descritas no edital:
 
 
 
-## Formulários do Edital
+### Formulários do Edital
 
 Acesse abaixo os formulários (**Anexos**) do Edital. Certifique-se de estar logado em sua conta Google/USP para ter acesso às pastas do Drive.
 

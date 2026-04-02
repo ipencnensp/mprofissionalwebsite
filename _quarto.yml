@@ -17,7 +17,7 @@ website:
   announcement: 
     icon: info-circle
     dismissable: true
-    content: "ATENÇÃO! Aulas iniciadas para a Turma 8 em 11/03/2026 às 14h - <a href='/academico/calendario.qmd'> Veja o Calendário Acadêmico. </a>"
+    content: "ATENÇÃO! Edital de Bolsas - Inscrições abertas!> <a href='/edital.qmd'> Veja o Edital. </a>"
     type: primary
     position: below-navbar
   navbar:
@@ -70,7 +70,7 @@ website:
       - icon: instagram
         href: https://instagram.com/mptrcs.ipen/
         aria-label: Instagram
-      - text: "Processo Seletivo"
+      - text: "Editais"
         href: edital.qmd
         icon: file-earmark-text
 
