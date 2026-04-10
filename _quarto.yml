@@ -17,7 +17,7 @@ website:
   announcement: 
     icon: info-circle
     dismissable: true
-    content: "ATENÇÃO! Edital de Bolsas - Inscrições abertas!> <a href='/edital.qmd'> Veja o Edital. </a>"
+    content: "ATENÇÃO! Resultado do Edital de Bolsas!> <a href='/edital.qmd'> Aqui. </a>"
     type: primary
     position: below-navbar
   navbar:

@@ -15,7 +15,17 @@ Nesta página, você encontra os editais vigentes e o histórico de processos en
 
 ## Editais de Bolsas de Estudo
 
-### Edital nº 05/2026 - Bolsas para o Mestrado Profissional <span class="badge bg-success ms-2">Inscrições Abertas</span>
+
+::: {.callout-important icon="true"}
+### Resultado do Edital nº 05/2026 - Bolsas para o Mestrado Profissional
+
+<a href="arquivos/Resultado-Edital_de_bolsas_num-05-2026.pdf" target="_blank" class="btn btn-primary mb-4 mt-2 shadow-sm">
+  <i class="bi bi-file-earmark-pdf-fill"></i> Veja os Resultados (PDF)
+</a>
+
+:::
+
+#### Edital nº 05/2026 - Bolsas para o Mestrado Profissional <span class="badge bg-dark ms-2">Inscrições Encerradas</span>
 
 O Programa de Pós-graduação Mestrado Profissional em Tecnologia das Radiações em Ciências da Saúde (MP-TRCS) torna público o edital para seleção de 3 (três) bolsas de estudo. A distribuição das vagas prevê 01 (uma) bolsa para candidatos autodeclarados pretos, pardos e indígenas, e 02 (duas) bolsas para ampla concorrência. O valor da bolsa mensal é de R$ 2.100,00.
 
