@@ -14,12 +14,12 @@ website:
   title: "MPTRCS"
   favicon: images/favicon.png
   google-analytics: "G-3790LE2466"
-  announcement: 
-    icon: info-circle
-    dismissable: true
-    content: "ATENÇÃO! Resultado do Edital de Bolsas!> <a href='/edital.qmd'> Aqui. </a>"
-    type: primary
-    position: below-navbar
+#  announcement: 
+#    icon: info-circle
+#    dismissable: true
+#    content: "ATENÇÃO! Resultado do Edital de Bolsas!> <a href='/edital.qmd'> Aqui. </a>"
+#    type: primary
+#    position: below-navbar
   navbar:
     logo: "/images/logo_mp.png" 
     logo-alt: "Logo do Mestrado Profissional IPEN"
