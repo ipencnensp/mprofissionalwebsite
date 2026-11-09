@@ -1,6 +1,10 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - "arquivos"
+    - "CNAME"
+    - ".nojekyll"
   render: 
     - "institucional"
     - "academico"
@@ -14,12 +18,12 @@ website:
   title: "MPTRCS"
   favicon: images/favicon.png
   google-analytics: "G-3790LE2466"
-#  announcement: 
-#    icon: info-circle
-#    dismissable: true
-#    content: "ATENÇÃO! Resultado do Edital de Bolsas!> <a href='/edital.qmd'> Aqui. </a>"
-#    type: primary
-#    position: below-navbar
+  announcement: 
+    icon: info-circle
+    dismissable: true
+    content: "<strong>Inscrições Abertas!</strong> Edital nº 10/2026 - Credenciamento e Recredenciamento Docente (09/11 a 30/11/2026). <a href='/edital.html' class='alert-link'>Saiba mais</a>"
+    type: primary
+    position: below-navbar
   navbar:
     logo: "/images/logo_mp.png" 
     logo-alt: "Logo do Mestrado Profissional IPEN"

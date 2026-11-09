@@ -39,6 +39,13 @@ Isso cria muitas possibilidades! Agora preciso aprender esse EJS
 
 
 ::: {.content-container}
+
+::: {.callout-important icon="true"}
+### Edital nº 10/2026 – Credenciamento e Recredenciamento Docente
+Estão abertas as inscrições (09/11/2026 a 30/11/2026) para o **credenciamento de novos docentes** (07 vagas, sendo 2 para Radiofarmácia) e **recredenciamento de docentes atuais** (até 14 vagas) do MP-TRCS.  
+Acesse o edital completo, cronograma e anexos na [Página de Editais](../../edital.qmd#credenciamento-e-recredenciamento-docente).
+:::
+
 ::: {.listing-block}
 
 ## COORDENAÇÃO

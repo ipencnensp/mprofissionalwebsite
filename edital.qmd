@@ -13,6 +13,58 @@ Nesta página, você encontra os editais vigentes e o histórico de processos en
 
 ---
 
+## Credenciamento e Recredenciamento Docente
+
+::: {.callout-important icon="true"}
+### Edital nº 10/2026 – Credenciamento e Recredenciamento Docente <span class="badge bg-success ms-2">Inscrições Abertas</span>
+
+Abertura de inscrições para credenciamento de docentes com título de doutor para preenchimento de **07 vagas para novos docentes permanentes** (sendo 2 para Radiofarmácia) e até **14 vagas para recredenciamento** dos atuais docentes permanentes.
+
+* **Período de Inscrição:** 09/11/2026 até às 17h00 do dia 30/11/2026 (impreterivelmente).  
+* **Como se inscrever:** Enviar a documentação exigida e os anexos devidamente preenchidos para os e-mails [mp.cpg@ipen.br](mailto:mp.cpg@ipen.br) e [smp@ipen.br](mailto:smp@ipen.br).
+
+<div class="d-flex gap-2 flex-wrap my-3">
+  <a href="arquivos/Edital_de_docentes_do_MP-TRCS_2026.pdf" target="_blank" class="btn btn-primary shadow-sm">
+    <i class="bi bi-file-earmark-pdf-fill"></i> Baixar Edital 10/2026 (PDF)
+  </a>
+  <a href="arquivos/Edital_de_docentes_do_MP-TRCS_2026.docx" target="_blank" class="btn btn-outline-dark shadow-sm">
+    <i class="bi bi-file-earmark-word-fill text-primary"></i> Baixar Edital 10/2026 (Word)
+  </a>
+</div>
+
+:::
+
+### Visão Geral
+
+* **Público-Alvo:** Funcionários ativos ou aposentados do IPEN com título de doutor. É desejável que o candidato atue na área das radiações na saúde e não atue como orientador em outro programa de pós-graduação.
+* **Disponibilidade:** Ministrar disciplinas e orientar no programa a partir da próxima turma (janeiro de 2027).
+* **Vigência:** O credenciamento será válido até 31 de dezembro de 2029.
+* **Critérios de Avaliação:** Baseados nos quesitos da CAPES para Mestrado Profissional na área de Medicina II (ciclo avaliativo 2025–2028), Portaria CAPES 81/2016 e no Regulamento do Programa MP-TRCS.
+
+### Cronograma
+
+| Data | Etapa |
+| :--- | :--- |
+| **09/11/2026 a 30/11/2026** | **Período de Inscrições e Envio de Documentação (até 17h00)** |
+| **A partir de 14/12/2026** | **Divulgação do Resultado no site do programa** |
+| **16/12/2026** | **Interposição de Recursos** |
+| **18/12/2026** | **Divulgação do Resultado Final no site do programa** |
+
+### Formulários e Anexos para Inscrição
+
+Faça o download dos formulários abaixo, preencha-os e anexe-os ao seu e-mail de inscrição junto com os demais documentos solicitados no Edital.
+
+| Documento | Descrição | Acesso |
+| :--- | :--- | :---: |
+| **Edital Completo** | Edital nº 10/2026 - Credenciamento e Recredenciamento Docente | [<i class="bi bi-file-earmark-pdf-fill"></i> PDF](arquivos/Edital_de_docentes_do_MP-TRCS_2026.pdf){.btn .btn-sm .btn-primary target="_blank"} [<i class="bi bi-file-earmark-word-fill"></i> Word](arquivos/Edital_de_docentes_do_MP-TRCS_2026.docx){.btn .btn-sm .btn-outline-primary target="_blank"} |
+| **Anexo I** | Ficha de Autoavaliação | [<i class="bi bi-file-earmark-word-fill"></i> Word](arquivos/Anexo_I-Ficha_de_autoavaliacao_Edital_de_docentes_do_MP-TRCS_2026.docx){.btn .btn-sm .btn-outline-primary target="_blank"} [<i class="bi bi-file-earmark-pdf-fill"></i> PDF](arquivos/Anexo_I-Ficha_de_autoavaliacao_Edital_de_docentes_do_MP-TRCS_2026.pdf){.btn .btn-sm .btn-outline-secondary target="_blank"} |
+| **Anexo II** | Discriminação dos Itens Contabilizados no Anexo I | [<i class="bi bi-file-earmark-word-fill"></i> Word](arquivos/Anexo II_Edital_de_docentes_do_MP-TRCS_2026.docx){.btn .btn-sm .btn-outline-primary target="_blank"} [<i class="bi bi-file-earmark-pdf-fill"></i> PDF](arquivos/Anexo II_Edital_de_docentes_do_MP-TRCS_2026.pdf){.btn .btn-sm .btn-outline-secondary target="_blank"} |
+| **Anexo III** | Recredenciamento Docente – Discriminação dos Itens | [<i class="bi bi-file-earmark-word-fill"></i> Word](arquivos/Anexo-III_Edital_de_docentes_do_MP-TRCS_2026.docx){.btn .btn-sm .btn-outline-primary target="_blank"} [<i class="bi bi-file-earmark-pdf-fill"></i> PDF](arquivos/Anexo-III_Edital_de_docentes_do_MP-TRCS_2026.pdf){.btn .btn-sm .btn-outline-secondary target="_blank"} |
+
+<br>
+
+---
+
 ## Editais de Bolsas de Estudo
 
 
