@@ -6,6 +6,17 @@ format:
     theme: spacelab
     toc: false
     page-layout: full
+listing:
+  - id: ultimas-noticias
+    contents:
+      - "noticias/*.qmd"
+      - "!noticias/index.qmd"
+    sort: "date desc"
+    max-items: 3
+    type: grid
+    grid-columns: 3
+    fields: [image, date, title, subtitle]
+    image-height: 200px
 ---
 
 ::: {.column-screen}
@@ -53,6 +64,16 @@ Bem-vindo ao Programa de Pós-Graduação Mestrado Profissional em Tecnologia da
 
 Voltado para graduados em Medicina, Farmácia, Biomedicina, Odontologia, Física Médica, Engenharias e áreas afins, o curso capacita profissionais para o desenvolvimento, implementação e uso inovador de técnicas que utilizam radiações (ionizantes e não ionizantes) em diagnósticos, terapias e aplicações diversas na saúde moderna.
 
+:::
+
+::: {.container .my-5}
+<div class="d-flex justify-content-between align-items-center mb-4 border-bottom pb-2">
+  <h2 class="mb-0"><i class="bi bi-newspaper text-primary"></i> Destaques &amp; Notícias Recentes</h2>
+  <a href="noticias/index.qmd" class="btn btn-outline-primary btn-sm">Ver todas as notícias <i class="bi bi-arrow-right"></i></a>
+</div>
+
+::: {#ultimas-noticias}
+:::
 :::
 
 ::: {.container-fluid .bg-light .py-5 .my-5 style="border-top: 1px solid #dee2e6; border-bottom: 1px solid #dee2e6;"}

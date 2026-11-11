@@ -37,6 +37,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
 <link href="./images/favicon.png" rel="icon" type="image/png">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
@@ -74,6 +76,35 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Procurar"
   }
 }</script>
+<script>
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-ultimas-noticias .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-image','listing-date','listing-title','listing-subtitle',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-ultimas-noticias'] = new List('listing-ultimas-noticias', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-3790LE2466"></script>
 
 <script type="text/javascript">
@@ -84,6 +115,35 @@ gtag('js', new Date());
 gtag('config', 'G-3790LE2466', { 'anonymize_ip': true});
 </script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-chtml.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -277,6 +337,82 @@ O IPEN celebra uma conquista histórica. Atingimos a <strong>Nota 4</strong> na 
 </div>
 <p>Voltado para graduados em Medicina, Farmácia, Biomedicina, Odontologia, Física Médica, Engenharias e áreas afins, o curso capacita profissionais para o desenvolvimento, implementação e uso inovador de técnicas que utilizam radiações (ionizantes e não ionizantes) em diagnósticos, terapias e aplicações diversas na saúde moderna.</p>
 </section>
+<div class="container my-5">
+<div class="d-flex justify-content-between align-items-center mb-4 border-bottom pb-2">
+<h2 class="mb-0 anchored">
+<i class="bi bi-newspaper text-primary"></i> Destaques &amp; Notícias Recentes
+</h2>
+<p><a href="./noticias/index.html" class="btn btn-outline-primary btn-sm">Ver todas as notícias <i class="bi bi-arrow-right"></i></a></p>
+</div>
+<div id="listing-ultimas-noticias" class="quarto-listing quarto-listing-container-grid">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-categories="UHJlbWlhJUMzJUE3JUMzJUEzbyUyQ0Rlc3RhcXVlJTJDUmFkaW90ZXJhbiVDMyVCM3N0aWNhJTJDSW50ZWxpZyVDMyVBQW5jaWElMjBBcnRpZmljaWFsJTJDSW5vdmElQzMlQTclQzMlQTNv" data-listing-date-sort="1794366000000" data-listing-file-modified-sort="1794428092182" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="869">
+<a href="./noticias/premiacoes-aluno-paulo-henrique.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./images/paulo_henrique_viena_oncidium.jpeg" class="thumbnail-image card-img" style="height: 200px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Mestrando do MP-TRCS Conquista Prêmio Internacional em Viena e Distinção Magna Cum Laude na JPR 2026
+</h5>
+<div class="card-subtitle listing-subtitle">
+Pesquisas de Paulo Henrique Ruis Garcia, orientado pelo Prof.&nbsp;Dr.&nbsp;Orlando Rodrigues Junior, ganham destaque na América Latina e no principal congresso de radiologia do país
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+11 de nov. de 2026
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="1" data-categories="RXZlbnRvcyUyQ0FjYWQlQzMlQUFtaWNvJTJDV29ya3Nob3A=" data-listing-date-sort="1794366000000" data-listing-file-modified-sort="1794401435973" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="498">
+<a href="./noticias/viii-workshop-2026.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./arquivos/Programacao_VIII_Workshop_2026.jpeg" class="thumbnail-image card-img" style="height: 200px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+VIII Workshop do Mestrado Profissional: Programação e Orientações
+</h5>
+<div class="card-subtitle listing-subtitle">
+Atividade acadêmica obrigatória para os discentes do MP-TRCS será realizada em 26 de novembro de 2026, no Prédio do Ensino
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+11 de nov. de 2026
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="2" data-categories="SW5zdGl0dWNpb25hbCUyQ0Rlc3RhcXVlJTJDQ0FQRVM=" data-listing-date-sort="1768273200000" data-listing-file-modified-sort="1769119917547" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="308">
+<a href="./institucional/noticias/nota-4-capes.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./images/banner_capes_4.jpg" class="thumbnail-image card-img" style="height: 200px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Conquista Histórica: Mestrado Profissional atinge Nota 4 na CAPES
+</h5>
+<div class="card-subtitle listing-subtitle">
+Resultado oficial consolida a excelência do Programa de Tecnologia das Radiações
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+13 de jan. de 2026
+</div>
+</div>
+</div>
+</div></a>
+</div>
+</div>
+<div class="listing-no-matching d-none">Sem itens correspondentes</div>
+</div>
+</div>
 <div class="container-fluid bg-light py-5 my-5" style="border-top: 1px solid #dee2e6; border-bottom: 1px solid #dee2e6;">
 <div class="container text-center">
 <h2 class="display-5 fw-bold text-primary mb-3 anchored">
@@ -360,6 +496,7 @@ Estão abertas as inscrições de <strong>09/11/2026 a 30/11/2026</strong> para 
     if (card) { card.style.display = 'none'; }
   }
 </script>
+
 
 
 </div>

@@ -1,12 +1,5 @@
 [
   {
-    "listing": "/noticias/index.html",
-    "items": [
-      "/noticias/viii-workshop-2026.html",
-      "/noticias/nota-4-capes.html"
-    ]
-  },
-  {
     "listing": "/programa/docentes/docentes.html",
     "items": [
       "/programa/docentes/coordenacao/denise-maria-zezell.html",
@@ -25,6 +18,23 @@
       "/programa/docentes/professor/martha-simoes-ribeiro.html",
       "/programa/docentes/professor/patrick-jack-spencer.html",
       "/programa/docentes/professor/wagner-de-rossi.html"
+    ]
+  },
+  {
+    "listing": "/noticias/index.html",
+    "items": [
+      "/noticias/premiacoes-aluno-paulo-henrique.html",
+      "/noticias/viii-workshop-2026.html",
+      "/noticias/nota-4-capes.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/noticias/premiacoes-aluno-paulo-henrique.html",
+      "/noticias/viii-workshop-2026.html",
+      "/institucional/noticias/nota-4-capes.html",
+      "/noticias/nota-4-capes.html"
     ]
   }
 ]
