@@ -1,1 +1,41 @@
 /* css styles */
+
+/* Card Flutuante - Destaque VIII Workshop */
+#workshop-floating-card {
+  position: fixed;
+  top: 110px;
+  right: 25px;
+  max-width: 380px;
+  z-index: 1050;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.25);
+  animation: slideInDown 0.5s ease-out;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+#workshop-floating-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 14px 35px rgba(0, 0, 0, 0.3);
+}
+
+@keyframes slideInDown {
+  from {
+    transform: translateY(-80px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+@media (max-width: 576px) {
+  #workshop-floating-card {
+    top: 120px !important;
+    left: 15px !important;
+    right: 15px !important;
+    max-width: calc(100% - 30px) !important;
+  }
+}
+
