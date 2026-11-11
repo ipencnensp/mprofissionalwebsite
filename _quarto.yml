@@ -58,7 +58,7 @@ website:
 
       - text: "Acadêmico"
         menu:
-          - text: "Calendário 2025/2026"
+          - text: "Calendário 2026"
             href: academico/calendario.qmd
           - text: "Secretaria Virtual" # Opcional para formulários
             href: academico/secretaria.qmd

@@ -1,5 +1,5 @@
 ---
-title: "Calendário 1º Semestre de 2026 - Turma VIII"
+title: "Calendário 2º Semestre de 2026 - Turma VIII"
 subtitle: "Mestrado Profissional em Tecnologia das Radiações em Ciências da Saúde"
 format:
   html:
@@ -7,30 +7,71 @@ format:
     toc-title: "Nesta página"
 ---
 
-O 1º semestre de 2026 (Turma VIII) terá início no dia 11 de março. Confira abaixo o quadro de horários, as datas das aulas e os prazos importantes do semestre.
+O 2º semestre de 2026 da Turma VIII terá início no dia **05 de agosto de 2026**. Confira abaixo o quadro de horários, as datas detalhadas das aulas, feriados, workshop e prazos importantes do semestre.
 
 ## Prazos e Datas Importantes
 
-* **Início das aulas:** 11/03/2026.
-* **Encerramento do semestre:** 17/07/2026.
-* **Lançamento dos conceitos finais em disciplinas no ATRIO+:** até 31/08/2026.
+* **Início das aulas do 2º Semestre:** 05/08/2026.
+* **Feriado (Dia da Consciência Negra):** 20/11/2026 (não haverá aula).
+* **VIII Workshop do MP-TRCS:** 26/11/2026 (atividade acadêmica obrigatória para discentes).
+* **Encerramento das aulas do 2º Semestre:** 27/11/2026.
 
 ## Disciplinas Ofertadas
 
-* [**MP-01** - Fundamentos de Física em Ciências da Saúde (Obrigatória)]{style="color: #d9534f; font-weight: bold;"}.
-* **MP-03** - Interações da Radiação Ionizante e Não Ionizante.
-* **MP-04** - Fundamentos de Radioterapia.
-* **MP-06** - Radiofarmácia I – Módulo Teórico.
-* **MP-08** - Avaliação de Tecnologia em Saúde.
+* **MP-09** - Fundamentos de Imagens Médicas.
+* **MP-05** - Dosimetria para Radioterapia.
+* **MP-07** - Radiofarmácia II – Módulo Prático Experimental.
+* [**MP-02** - Proteção, Segurança e Logística Radiológica (Obrigatória)]{style="color: #d9534f; font-weight: bold;"}.
+
+::: {.callout-tip}
+Para mais detalhes sobre as ementas completas e corpo docente, consulte a página [Disciplinas Oferecidas](../programa/disciplinas.qmd).
+:::
 
 ## Quadro de Horários
 
 | Horário | Quarta-feira | Quinta-feira | Sexta-feira |
 | :--- | :--- | :--- | :--- |
-| **14h00 às 16h30** | **MP-06** Radiofarmácia I – Módulo Teórico<br>*(Professores: Elaine, Emerson e Margareth)* | **MP-08** Avaliação de Tecnologia em Saúde<br>*(Professores: Maria Elisa, Martha e Patrick)* | **MP-01** Fundamentos de Física em Ciências da Saúde (Obrigatória)<br>*(Professores: Julian, Maria da Penha e Lugão)* |
-| **17h00 às 19h30** | **MP-04** Fundamentos de Radioterapia<br>*(Professores: Maria Elisa, Zeituni e Carla)* | **MP-03** Interações da Radiação Ionizante e Não Ionizante<br>*(Professores: Daniel, Denise e Patrick)* | *A confirmar* |
+| **14h00 às 16h30** | **MP-09** Fundamentos de Imagens Médicas<br>*(Prof. Dr. Mário Olímpio de Menezes)* | **MP-07** Radiofarmácia II – Módulo Prático Experimental<br>*(Profs. Margareth Matsuda, Elaine de Araújo e Luís Alberto Dias)* | [**MP-02** Proteção, Segurança e Logística Radiológica (Obrigatória)]{style="color: #d9534f; font-weight: bold;"}<br>*(Prof. Dr. Carlos Alberto Zeituni e Prof. Dr. Orlando Rodrigues Junior)* |
+| **17h00 às 19h30** | **MP-05** Dosimetria para Radioterapia<br>*(Prof. Dr. Carlos Alberto Zeituni e Profa. Dra. Carla Daruich de Souza)* | *Não haverá aula* | *Não haverá aula* |
 
 ## Calendário Detalhado de Aulas
+
+| Mês | MP-09 (Qua) | MP-05 (Qua) | MP-07 (Qui) | MP-02 (Sex) |
+| :--- | :--- | :--- | :--- | :--- |
+| **Agosto** | 05, 12, 19 e 26 | 05, 12, 19 e 26 | 06, 13, 20 e 27 | 07, 14, 21 e 28 |
+| **Setembro** | 02, 09, 16, 23 e 30 | 02, 09, 16, 23 e 30 | 03, 10, 17 e 24 | 04, 11, 18 e 25 |
+| **Outubro** | 07, 14, 21 e 28 | 07, 14, 21 e 28 | 01, 08, 15, 22 e 29 | 02, 09, 16, 23 e 30 |
+| **Novembro** | 04, 11, 18 e 25 | 04, 11, 18 e 25 | 05, 12 e 19 | 06, 13 e 27 |
+| **Semanas de Aula** | **17** | **17** | **16** | **16** |
+
+## Eventos e Feriados
+
+* **20 de novembro (Sexta-feira):** Feriado Nacional – Dia Nacional de Zumbi e da Consciência Negra (não haverá aula).
+* **26 de novembro (Quinta-feira):** [VIII Workshop do Mestrado Profissional](../noticias/viii-workshop-2026.qmd) — Atividade acadêmica obrigatória para apresentação dos trabalhos e produtos dos discentes (sem aula regular da disciplina MP-07).
+
+---
+
+## Exigências de Créditos Mínimos
+
+::: {.callout-warning title="Artigo 35º do Regulamento"}
+O candidato ao Programa deverá completar pelo menos 100 unidades de crédito, cuja distribuição obedecerá ao seguinte critério: no mínimo 40 unidades de crédito em disciplinas do Programa, no mínimo 8 unidades de crédito em Seminários Gerais de Área e no mínimo 52 unidades de crédito no preparo do Trabalho Final de Curso.
+:::
+
+---
+
+::: {.callout-note collapse="true" icon="false"}
+## Histórico: Calendário do 1º Semestre de 2026 (Encerrado)
+
+O 1º semestre de 2026 (Turma VIII) teve início no dia 11 de março e encerramento em 17 de julho de 2026.
+
+### Quadro de Horários (1º Semestre)
+
+| Horário | Quarta-feira | Quinta-feira | Sexta-feira |
+| :--- | :--- | :--- | :--- |
+| **14h00 às 16h30** | **MP-06** Radiofarmácia I – Módulo Teórico<br>*(Professores: Elaine, Emerson e Margareth)* | **MP-08** Avaliação de Tecnologia em Saúde<br>*(Professores: Maria Elisa, Martha e Patrick)* | **MP-01** Fundamentos de Física em Ciências da Saúde (Obrigatória)<br>*(Professores: Julian, Maria da Penha e Lugão)* |
+| **17h00 às 19h30** | **MP-04** Fundamentos de Radioterapia<br>*(Professores: Maria Elisa, Zeituni e Carla)* | **MP-03** Interações da Radiação Ionizante e Não Ionizante<br>*(Professores: Daniel, Denise e Patrick)* | *Não houve aula* |
+
+### Calendário Detalhado de Aulas (1º Semestre)
 
 | Mês | MP-06 (Qua) | MP-04 (Qua) | MP-08 (Qui) | MP-03 (Qui) | MP-01 (Sex) |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -41,17 +82,13 @@ O 1º semestre de 2026 (Turma VIII) terá início no dia 11 de março. Confira a
 | **Julho** | 01 | 01 | 02 e 09 | 02 e 09 | 03, 10 e 17 |
 | **Semanas de Aula** | **17** | **17** | **17** | **17** | **16** |
 
-## Feriados Nacionais
+### Prazos e Feriados (1º Semestre)
 
+* **Início das aulas:** 11/03/2026.
 * **03 de abril:** Sexta-feira Santa.
 * **01 de maio:** Dia do Trabalho.
 * **04 de junho:** Corpus Christi. 
-* **05 de junho:** Sexta-Feira - *ponte*
-
----
-
-## Exigências de Créditos Mínimos
-
-::: {.callout-warning title="Artigo 35º do Regulamento"}
-O candidato ao Programa deverá completar pelo menos 100 unidades de crédito, cuja distribuição obedecerá ao seguinte critério: no mínimo 40 unidades de crédito em disciplinas do Programa, no mínimo 8 unidades de crédito em Seminários Gerais de Área e no mínimo 52 unidades de crédito no preparo do Trabalho Final de Curso.
+* **05 de junho:** Sexta-Feira - *ponte*.
+* **Encerramento do semestre:** 17/07/2026.
+* **Lançamento dos conceitos finais em disciplinas no ATRIO+:** até 31/08/2026.
 :::
