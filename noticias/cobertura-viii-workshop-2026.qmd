@@ -1,0 +1,121 @@
+---
+title: "VIII Workshop do Mestrado Profissional reúne discentes, docentes e coordenação da CAPES no IPEN"
+subtitle: "Realizado em 26 de novembro de 2026, evento anual contou com palestras da área de Medicina II da CAPES e da SBBN, sessão de pôsteres e premiação de trabalhos"
+date: 2026-11-27
+categories: [Eventos, Acadêmico, Workshop, Cobertura]
+image: ../images/noticias/viii-workshop-2026/01b-foto-grupo-completo.jpg
+format:
+  html:
+    toc: true
+    toc-title: "Nesta página"
+    lightbox: true
+---
+
+O Programa de Pós-Graduação **Mestrado Profissional em Tecnologia das Radiações em Ciências da Saúde (MP-TRCS)** do IPEN-CNEN realizou, no dia **26 de novembro de 2026**, a oitava edição do seu Workshop anual, no Prédio do Ensino.
+
+Atividade acadêmica obrigatória na formação dos mestrandos, o encontro reuniu alunos, orientadores, pesquisadores e autoridades institucionais em um formato de congresso científico voltado ao acompanhamento das dissertações e dos produtos técnicos e tecnológicos em desenvolvimento.
+
+::: {.text-center .my-4}
+![Registro panorâmico com os participantes do VIII Workshop do MP-TRCS.](../images/noticias/viii-workshop-2026/01b-foto-grupo-completo.jpg){.img-fluid .w-100 .rounded .shadow group="workshop-2026"}
+:::
+
+---
+
+## Reunião Docente, Abertura Oficial e Diálogo com a CAPES
+
+As atividades tiveram início pela manhã, às 10h00, com uma reunião de trabalho entre o corpo docente do MP-TRCS e a **Profa. Dra. Daiane Cristini Barbosa de Souza**, Coordenadora Adjunta da Área de Medicina II da CAPES/MEC. Na conversa, a Dra. Daiane abordou a **Avaliação Quadrienal da CAPES**, detalhando a importância de todo o corpo docente conhecer o funcionamento, os critérios e os parâmetros avaliativos, de modo que a construção dos elementos a serem avaliados ocorra de maneira contínua e planejada ao longo dos quatro anos do ciclo.
+
+No início da tarde, a sessão solene de abertura dos trabalhos contou com a participação do **Dr. Marcelo Linardi**, representando a Direção do IPEN — um dos idealizadores do Mestrado Profissional, que liderou o processo de formulação e submissão do programa junto à CAPES —, da **Dra. Martha Ribeiro**, Gerente do Ensino do IPEN, e da **Dra. Denise Zezell**, Coordenadora do MP-TRCS. Na sequência, a Profa. Denise M. Zezell, coordenadora do Mestrado Profissional apresentou a profa Daiane, que 
+ministrou aos discentes e orientadores a palestra intitulada *"A importância dos programas profissionais na inovação no Brasil"*, seguida de debate com a plateia.
+
+<!-- ::: {layout-ncol=3} -->
+<!-- ![Abertura da reunião de trabalho com os docentes do MP-TRCS no período da manhã.](../images/noticias/viii-workshop-2026/02-reuniao-docentes-abertura.jpg){group="workshop-2026"} -->
+
+<!-- ![Apresentação da Profa. Dra. Daiane C. B. de Souza sobre o Sistema Nacional de Pós-Graduação (SNPG).](../images/noticias/viii-workshop-2026/03-reuniao-docentes-capes-snpg.jpg){group="workshop-2026"} -->
+
+<!-- ![Sessão solene de abertura do VIII Workshop no auditório do Prédio do Ensino.](../images/noticias/viii-workshop-2026/04-abertura-solene.jpg){group="workshop-2026"} -->
+<!-- ::: -->
+
+::: {layout-ncol=3}
+![Dr. Marcelo Linardi, representando a Direção do IPEN na abertura dos trabalhos.](../images/noticias/viii-workshop-2026/04a-abertura-marcelo-linardi.jpg){.img-fluid .w-100 .rounded group="workshop-2026" style="height: 300px; object-fit: cover; object-position: center 15%;"}
+
+![Dra. Martha Ribeiro, Gerente do Ensino do IPEN, durante a abertura do VIII Workshop.](../images/noticias/viii-workshop-2026/04b-abertura-martha-ribeiro.jpg){.img-fluid .w-100 .rounded group="workshop-2026" style="height: 300px; object-fit: cover; object-position: center 15%;"}
+
+![Dra. Denise Zezell, Coordenadora do MP-TRCS, na abertura do evento.](../images/noticias/viii-workshop-2026/04c-abertura-denise-zezell.jpg){.img-fluid .w-100 .rounded group="workshop-2026" style="height: 300px; object-fit: cover; object-position: center 15%;"}
+:::
+
+::: {layout-ncol=2}
+![Palestra da Profa. Dra. Daiane C. B. de Souza sobre a importância dos programas profissionais na inovação no Brasil.](../images/noticias/viii-workshop-2026/05-palestra-daiane-pnpg.jpg){.img-fluid .w-100 .rounded group="workshop-2026" style="height: 280px; object-fit: cover; object-position: center 25%;"}
+
+![Auditório durante a palestra da Profa. Dra. Daiane C. B. de Souza e debate com os participantes.](../images/noticias/viii-workshop-2026/06-auditorio-palestra.jpg){.img-fluid .w-100 .rounded group="workshop-2026" style="height: 280px; object-fit: cover; object-position: center 25%;"}
+:::
+
+---
+
+## Depoimento Discente, Pôsteres e Aplicação Prática
+
+Às 14h30, o mestrando **Paulo Henrique Ruis Garcia** (Turma 7) compartilhou sua experiência no programa e apresentou duas conquistas recentes obtidas durante o mestrado: a distinção **Magna Cum Laude** na Jornada Paulista de Radiologia (JPR), concedida pelo rigor metodológico e inovação do estudo *"Avaliação da Maturidade Metodológica da Radiômica em Periódicos Brasileiros: Uma Revisão Integrativa baseada no Radiomics Quality Score 2.0"* (em coautoria com Ana Carolina Costa da Silva e Orlando Rodrigues Junior), e o **1º lugar na Latin American Nuclear Olympiad 2026** — edição dedicada a radioteranósticos promovida em parceria com a *Hackapower* — com a proposta *"The LATAM Radiopharmaceutical System (LRS): A Digital Infrastructure to Expanding Radiotheranostics in Latin America"*, que lhe garantiu o convite para apresentá-la no *Global Ambassadors Meeting* da *Oncidium Foundation*, durante o congresso **EANM 2026**, em Viena.
+
+Na sequência, a programação seguiu para o saguão do Prédio do Ensino com a sessão de exposição e arguição de pôsteres pelos mestrandos, avaliada pelos orientadores do programa. Entre os trabalhos apresentados, destacou-se a dimensão aplicada das pesquisas em saúde e proteção radiológica, incluindo demonstração prática de atendimento pré-hospitalar para vítimas de acidente radiológico e a exposição das viaturas de Proteção Radiológica e Emergência do IPEN/CNEN.
+
+::: {layout-ncol=2}
+![Depoimento do aluno Paulo Henrique Ruis Garcia (Turma 7) aos participantes.](../images/noticias/viii-workshop-2026/07-depoimento-paulo-henrique.jpg){group="workshop-2026"}
+
+![Visão geral da sessão de pôsteres e arguição no saguão do Prédio do Ensino.](../images/noticias/viii-workshop-2026/08-sessao-posteres-saguao.jpg){group="workshop-2026"}
+
+![Demonstração prática integrada ao pôster sobre atendimento pré-hospitalar em acidentes radiológicos.](../images/noticias/viii-workshop-2026/09-poster-atendimento-pre-hospitalar.jpg){group="workshop-2026"}
+
+![Exposição externa das viaturas de Proteção Radiológica e Emergência do IPEN/CNEN.](../images/noticias/viii-workshop-2026/10-exposicao-viaturas-ipen.jpg){group="workshop-2026"}
+:::
+
+---
+
+## Palestra de Encerramento e Premiação
+
+No encerramento do evento, às 16h30, o **Prof. Dr. Fábio Luiz Navarro Marques** (Radioquímico da FMUSP e Presidente da Sociedade Brasileira de Biociências Nucleares – SBBN) apresentou a palestra *"Uma breve história da ciência nuclear e da radiofarmácia"*, abordando a trajetória histórica e científica da radioquímica e das ciências nucleares aplicadas à saúde.
+
+::: {.grid .align-items-center .g-3 .mb-4}
+::: {.g-col-12 .g-col-md-4}
+![Abertura da palestra do Prof. Dr. Fábio Luiz Navarro Marques: "Uma breve história da ciência nuclear e da radiofarmácia".](../images/noticias/viii-workshop-2026/11a-palestra-fabio-navarro-abertura.jpg){group="workshop-2026"}
+:::
+
+::: {.g-col-12 .g-col-md-8}
+![Exposição sobre a história da ciência nuclear e da radiofarmácia (Prof. Dr. Fábio Luiz Navarro Marques).](../images/noticias/viii-workshop-2026/11-palestra-fabio-navarro.jpg){group="workshop-2026" .mb-3}
+
+![Encerramento da palestra com a coordenação do MP-TRCS e participantes.](../images/noticias/viii-workshop-2026/12-encerramento-palestra-sbbn.jpg){group="workshop-2026"}
+:::
+:::
+
+Às 18h00, a coordenação realizou o anúncio e a premiação dos melhores trabalhos avaliados na sessão de pôsteres:
+
+* **1º lugar:** **Paula Eduarda Vicente da Silva**;
+* **2º lugar (empate):** **Ricardo Rodrigo Jefferson Conceição** e **Paulo Henrique Ruis Garcia** *(não houve 3º colocado)*;
+* **Menções honrosas:** aluno **Jardson**, egressa **Juliana**, **Bhayan Bernardo de Araújo Silva** e **Marcelo Toshio Tadeu Caliman Sato**, pelos pôsteres apresentados.
+
+::: {layout-ncol=2}
+![1º lugar na sessão de pôsteres: Paula Eduarda Vicente da Silva.](../images/noticias/viii-workshop-2026/13-premiacao-1-lugar-paula.jpg){group="workshop-2026"}
+
+![2º lugar (empate) na sessão de pôsteres: Ricardo Rodrigo Jefferson Conceição.](../images/noticias/viii-workshop-2026/14-premiacao-2-lugar-ricardo.jpg){group="workshop-2026"}
+
+![2º lugar (empate) na sessão de pôsteres: Paulo Henrique Ruis Garcia.](../images/noticias/viii-workshop-2026/15-premiacao-3-lugar-paulo-henrique.jpg){group="workshop-2026"}
+
+![Menção honrosa pelos pôsteres: aluno Jardson e egressa Juliana.](../images/noticias/viii-workshop-2026/16-mencao-honrosa-jardson-juliana.jpg){group="workshop-2026"}
+:::
+
+### Agradecimento
+
+A Coordenação do MP-TRCS registra um agradecimento especial às secretárias do programa, **Andrea** e **Letícia**, pelo empenho e dedicação em todas as etapas da organização e realização do VIII Workshop.
+
+---
+
+::: {.callout-tip title="Registros em Vídeo"}
+Trechos em vídeo do evento também podem ser acompanhados nas redes sociais oficiais do programa em [@mptrcs.ipen](https://instagram.com/mptrcs.ipen/).
+:::
+
+*Fotos tiradas pela equipe do MP.*
+
+::: {.d-flex .justify-content-center .gap-3 .mt-5 .flex-wrap}
+[<i class="bi bi-calendar-check"></i> Ver Programação Original](viii-workshop-2026.qmd){.btn .btn-outline-primary}
+[<i class="bi bi-newspaper"></i> Todas as Notícias](index.qmd){.btn .btn-outline-secondary}
+[<i class="bi bi-arrow-left"></i> Home](../index.qmd){.btn .btn-primary}
+:::

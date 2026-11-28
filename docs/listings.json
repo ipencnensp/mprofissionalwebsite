@@ -1,5 +1,14 @@
 [
   {
+    "listing": "/noticias/index.html",
+    "items": [
+      "/noticias/cobertura-viii-workshop-2026.html",
+      "/noticias/premiacoes-aluno-paulo-henrique.html",
+      "/noticias/viii-workshop-2026.html",
+      "/noticias/nota-4-capes.html"
+    ]
+  },
+  {
     "listing": "/programa/docentes/docentes.html",
     "items": [
       "/programa/docentes/coordenacao/denise-maria-zezell.html",
@@ -21,16 +30,9 @@
     ]
   },
   {
-    "listing": "/noticias/index.html",
-    "items": [
-      "/noticias/premiacoes-aluno-paulo-henrique.html",
-      "/noticias/viii-workshop-2026.html",
-      "/noticias/nota-4-capes.html"
-    ]
-  },
-  {
     "listing": "/index.html",
     "items": [
+      "/noticias/cobertura-viii-workshop-2026.html",
       "/noticias/premiacoes-aluno-paulo-henrique.html",
       "/noticias/viii-workshop-2026.html",
       "/institucional/noticias/nota-4-capes.html",
